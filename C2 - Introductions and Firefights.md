@@ -12,15 +12,17 @@ As we wait for Ayumu and Rin, I couldn't help but wander around in my thoughts f
 
 *Eh, it probably has something to do with us just not staying in one location for too long.*
 
-*If I had to find the term for it... "nomadic"?*
+*If I had to find the term for it, we're... "nomadic"?*
 
 *We've been a tight-knit group for a long time now, and we can not just make up our minds on where to formally live.*
 
 *Our longest settlement time for one location was 9 entire months, and it hasn't gone any higher than that for about 5 years now.*
 
-*Sure, we'll revisit some places we've been in, but those don't last very long. Just us passing by, grabbing stuff we may have missed or buying something that the specific place has in abundance.*
+*Sure, we'll revisit some places we've been in, but those don't last very long. Just us passing by, grabbing stuff we may have missed or buying something that place in question has in abundance.*
 
 *God, bless the existence of short-lived jobs. A decent way to earn money without dealing with the constraints of having to stay for too long.*
+
+*...*
 
 *Though...*
 
