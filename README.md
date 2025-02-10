@@ -1,4 +1,4 @@
-The official upstream repository for [this particular fanfic](https://archiveofourown.org/works/62896948).
+The official upstream repository for [this particular fanfic](https://archiveofourown.org/works/62896948). Everything is done under the [Obsidian](https://obsidian.md/) app and uploaded here through the app's "Git" community extension.
 
 Updated every so often.
 
