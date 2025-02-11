@@ -6,37 +6,47 @@ As we wait for Ayumu and Rin, I couldn't help but wander around in my thoughts f
 
 *Hmm...*
 
-*Why do I have a gut feeling that we won't be leaving this city for a while?*
+*If that president girl was the one who brought us here... how? And why?*
 
-*And why am I not that surprised about it?*
+*Everything in this city was odd. Bipedal animals, truly sentient robots, and most of all, armed schoolgirls with haloes.*
 
-*Eh, it probably has something to do with us just not staying in one location for too long.*
-
-*If I had to find the term for it, we're... "nomadic"?*
-
-*We've been a tight-knit group for a long time now, and we can not just make up our minds on where to formally live.*
-
-*Our longest settlement time for one location was 9 entire months, and it hasn't gone any higher than that for about 5 years now.*
-
-*Sure, we'll revisit some places we've been in, but those don't last very long. Just us passing by, grabbing stuff we may have missed or buying something that place in question has in abundance.*
-
-*God, bless the existence of short-lived jobs. A decent way to earn money without dealing with the constraints of having to stay for too long.*
+*A place like this doesn't exist on Earth, so... an alternate universe, perhaps?*
 
 *...*
 
-*Though...*
+*Why am I not surprised?*
 
-*If this city, Kivotos, ends up being possibly our last and longest settlement that we would stay in, by force, or not...*
+*...*
 
-*...honestly, I wouldn't mind. And knowing the others, they probably also share the same sentiment with me.*
+*Heh, it probably has something to do with our interest in traveling EVERYWHERE.*
+
+*The idea of visiting different universes was considered intriguing, but absurd and probably impossible in our world. I mean, sure, it COULD be doable, but we would probably be an extinct species long before that can be possible, no thanks to our Oh So Creative way of killing each other.*
+
+*So, most people just set the idea aside. Or, if you're a director, make a movie about it.*
+
+*There's that, and then, there's us five.*
+
+*Normal people on Earth, now in some alternate reality. Something that would be considered absolutely insane and revolutionary.*
+
+*...well, it's either that, or this is some sort of long-ass weird dream that's somehow still cohesive.*
 
 ---
+
+I pinch my cheek. Niko notices me doing that.
+
+"Nope. Not a dream, Shiro." He points out.
+
+"How'd you-" 
+
+"I know you do that whenever we end up stumbling on something utterly stupid or absurd."
+
+"...fair enough."
 
 As I settle my thought process, Ayumu appears from the office doors, probably done talking with Rin.
 
 "Uhm, you may all come in now." Ayumu signals us to come into the office.
 
-"Alright."
+"Alright, let's go."
 
 We stand up from the seats we're in, and walk towards the office doors, which Ayumu is holding open.
 
@@ -50,8 +60,6 @@ Her details are... quite elegant, to say the least. Long, straight jet black hai
 
 Though, the most noticeable details are her elf ears and halo, which has a bluish gradient and resembles a crown of sorts.
 
-She certainly gives off an aura of elegance and authoritativeness, but at the same time, she seems to be noticeably tired.
+She certainly gives off an aura of elegance and authoritativeness. Though, at the same time, she seems to be noticeably tired.
 
 Such is the ways of being in a high position, I suppose.
-
-

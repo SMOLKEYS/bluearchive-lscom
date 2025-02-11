@@ -291,6 +291,14 @@ And the blimp in the sky. That *also* has a halo.
 
 ...
 
+Initially, we thought that the guns were fake. Maybe just some sort of weird trend in this place, who knows?
+
+Then, immediately after that thought, we end up hearing gunshots. In every direction. No one proceeded to pay any mind to it.
+
+So, yep, these guns are as real as they can get.
+
+...
+
 "*Pardon my language, but, just...*"
 
 "*...what the fuck?*"
