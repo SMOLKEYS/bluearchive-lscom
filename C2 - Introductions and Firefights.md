@@ -18,17 +18,19 @@ As we wait for Ayumu and Rin, I couldn't help but wander around in my thoughts f
 
 *...*
 
-*Heh, it probably has something to do with our interest in traveling EVERYWHERE.*
+*Heh, probably has something to do with the weird stuff we've seen or have been involved in.*
 
-*The idea of visiting different universes was considered intriguing, but absurd and probably impossible in our world. I mean, sure, it COULD be doable, but we would probably be an extinct species long before that can be possible, no thanks to our Oh So Creative way of killing each other.*
+*First, our own home, Earth.*
 
-*So, most people just set the idea aside. Or, if you're a director, make a movie about it.*
+*We already knew long ago about the various... "quirks" that some people had, but to actually see them in person and even be a part of it is an entire experience on its own.*
 
-*There's that, and then, there's us five.*
+*Second, our nomadic lifestyle.*
 
-*Normal people on Earth, now in some alternate reality. Something that would be considered absolutely insane and revolutionary.*
+*For 5 years, we've traveled across the entire globe. We would constantly move around, rest in hotels, or camp if we were outdoors. In that time, we would also gather souvenirs, make various friends and even learn some languages. It was pretty good, honestly.*
 
-*...well, it's either that, or this is some sort of long-ass weird dream that's somehow still cohesive.*
+*And lastly, magic. ACTUAL. MAGIC.*
+
+**
 
 ---
 
