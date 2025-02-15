@@ -54,13 +54,13 @@ As we wait for Ayumu and Rin, I couldn't help but wander around in my thoughts f
 
 *Though, anyways. Other than the dark cases, everything was, as I said, business as usual. Well, up until the last day of the magic drops.*
 
-*Imagine our surprise when Nano ended up being one of the last 100 people to receive magical capabilities. Now imagine our surprise again when it was found out that his capabilities were amplified far, FAR higher than anyone elses.*
+*Imagine our surprise when Nano ended up being one of the last 100 people to receive magical capabilities. Now imagine our surprise again when it was found out that his capabilities were amplified far, FAR higher than anyone else's.*
 
 *...*
 
 *...oh wait, I went FAR off track there, did I?*
 
-*Well, to make a long story short: Shit has happened in our world, and it made us desensitized to most surprising things.*
+*Well, to make a long story short: Shit has happened in our world, notably magic, and it made us desensitized to most surprising things.*
 
 *Honestly, am I just in a long-ass dream, or...*
 
@@ -224,8 +224,6 @@ As we walk through the surprisingly large building, we end up in an observation 
 
 ...
 
-Nano stares at the view in awe.
-
 "...holy shit."
 
 "Woah..."
@@ -234,7 +232,7 @@ Nano stares at the view in awe.
 
 "This is...!"
 
-We all speak in absolute awe. The sights below aren't doing this city any justice.
+We all speak in absolute awe, with Nano staying silent, as usual. The sights below aren't doing this city any justice.
 
 A seemingly limitless and clean urban city, and a clear, pure blue sky.
 
@@ -250,7 +248,9 @@ A seemingly limitless and clean urban city, and a clear, pure blue sky.
 
 "Alright then. Anyways, what's our-" Shiro is suddenly cut off by an elevator ding.
 
-"*Oh dear, that might be them.*" I think to myself.
+...
+
+"*Oh dear, that might be them.*" I think to myself, remembering the 4 girls at the ground floor.
 
 ...
 
@@ -258,4 +258,184 @@ A seemingly limitless and clean urban city, and a clear, pure blue sky.
 
 ///// POV: Shiro /////
 
-Noticing the ding, we all leave the observation deck, heading back to the office lounge. Once we got there, we find four familiar girls waiting. One in particular has an annoyed expression.
+Noticing the ding, we all leave the observation deck, heading back to the office lounge. Once we got there, we find four familiar girls waiting. The one in twintails in particular has an annoyed expression.
+
+"Ah! There you are, Acting President! We've all been waiting! Get the real president in here already!" That same girl with the expression is the first to break the silence, clearly angry.
+
+"I've been waiting to see you, Chief Officer." A second girl follows up. As much as we tried, we couldn't help but notice her rather... developed body, and her MASSIVE black wings.
+
+...no, that is not a word mask. Her wings are genuinely massive.
+
+"I'm here to meet with the General Student Council president. The Head Prefect has terms she would like to discuss." A third girl with elf ears in glasses follows up.
+
+"Well... this timing is rather inconvenient." Rin says, her eyes pointed over to the side. Look's like she's also irritated.
+
+Wearing a thinly veiled smile, Rin speaks up.
+
+"Hello. guests that represent neighboring academies' student council, disciplinary boards, and those who otherwise have too much time on their hands."
+
+...I have a feeling that last part is targeted.
+
+"I am well aware why you irksome- I mean, important representatives have come here today." Me and the others suppressed a slight chuckle.
+
+"You're here to blame us for the fuss happening in the Academy City. Isn't that right?" Rin asks, her aura growing more and more menacing by the second.
+
+"If you're well aware, then do something! You represent the General Student Council, after all!" The first girl retorts. "Thousands of academy districts are in panic! Our academy's wind generator shut down just a few days ago!" She follows up.
+
+...did the President really just have a rope on everything?
+
+"There are also rumors that a student under the Federal Corrections Bureau's custody has escaped." The elf girl follows up too.
+
+"There has been a sharp increase in the number of thugs attacking our students on their way to school. Public safety is not being properly enforced." A fourth girl then follows up too. Strange, I didn't notice her there. And is that a single wing on her head...?
+
+"Illegal distribution of tanks, choppers, and other unknown weapons have increased by over 2000 percent. At this rate, ordinary school life in Kivotos will be a thing of the past."
+
+...
+
+...
+
+A-wuh?
+
+Wuh-huh?
+
+Did I just hear that right?
+
+Unknown weapons?
+
+Choppers?
+
+**Tanks?**
+
+***By over 2000 percent!?***
+
+...
+
+...
+
+Holy shit.
+
+"..." Rin stays silent.
+
+"And what is the General Student Council President doing during such a sorry state of affairs? I demand to see her right this instant!" The first girl commands.
+
+Rin sighs, then speaks up again. Is she gonna mention that...?
+
+"The president is not here at the moment. To be frank, she's gone missing." There it is.
+
+"What?!" The first girl gasps in surprise.
+
+"...!" The elf girl says nothing, but her expression clearly shows shock.
+
+"So the rumors were true..." The winged girl confirms.
+
+Rin speaks up once more.
+
+"Allow me to cut to the chase. The General Student Council has no authority because the top administrator of the Sanctum Tower has gone missing."
+
+"We had been searching for a way to bypass the need for verification, all to no avail... until recently."
+
+...I have a feeling.
+
+"You mean you've found a way now, Chief Officer?" The winged girl asks.
+
+"That is correct. Sensei, or rather, the five Senseis here are the answer to our problems." Rin answers simply, pointing to our direction.
+
+...yep, feeling confirmed.
+
+"...?!" The first girl makes a confused noise. Did she not notice us the entire time.
+
+"...!" The elf girl also follows.
+
+"These people?" The winged girl asks, referring to us.
+
+"Wait, us?" Kai asks, confused.
+
+"Hold up. Who are these people you're talking about? What are they doing here in the first place?" The first girl asks.
+
+"Don't ask us or Rin. We're also clueless on how we ended up here." Niko answers. "As for why we're here... well, she can answer that." He quickly follows up.
+
+"Whoever they all are, they don't seem to be from Kivotos." Correct.
+
+"Well, then. Shiro-sensei, would you mind if you all introduced yourselves again?" Rin asks me, or, well, us. 
+
+"Not really, so, here."
+
+I can already hear some writing off Nano's notebook.
+
+"Tendou Shiro. Nice to meet you all." I start.
+
+"Tendou Niko. To repeat what I said to Ayumu: Same sentiment. And yes, me and Shiro are siblings." Niko follows up.
+
+"Hatora Emiya. It's a pleasure to meet you." Then Emiya.
+
+"Enami Kai. Nice to meet y'all." Then Kai, and lastly...
+
+<center><i>Kantami Nano. Nice to meet you all too.</i></center>
+
+<center><i>I use a notebook because my voice doesn't work. Sorry.</i></center>
+
+...Nano. We all gesture to his notebook. 
+
+"Huh?" The first girl stops to read it. "Oh... hey, you don't need to apologize about that!" She exclaims, her tone softening a bit. Nano really does bring out a more gentler side to some people, huh?
+
+The other three read it, and their eyes widen in response. The elf girl in particular showed a bit of empathy.
+
+...gonna assume they haven't experienced talking to mute people before.
+
+"Ahem."
+
+Rin fake-coughs to get our attention again. After that, she speaks up.
+
+"Introductions aside... not only are they going to be teaching in Kivotos, but they've also been personally selected by the General Student Council president."
+
+"Huh? The president chose them? The one who's now missing?" Yeah, we don't know either. "Things are making less and less sense..."
+
+"Well, as Rin said, introductions aside, I repeat, nice to meet you all." I greet the four.
+
+"R-right. It's good to meet you all. I'm Millennium Science School's..." ...Millennium Science? I feel like I've heard of that somewhere before.
+
+"I-I mean, why am I even bothering to introduce myself right now?"
+
+"Don't worry about that annoying girl. Let's just move on..." Rin says with another menacing smile.
+
+"Who are you calling annoying?! I'm Hayase Yuuka! You should remember that name, Sensei!" The first girl, Yuuka, tells us.
+
+"Noted. Well, it's nice to meet you too, Yuuka." I say with a smile.
+
+"Hmm, well then. We should introduce ourselves too." The winged girl mentions.
+
+"Hanekawa Hasumi. Member of the Trinity Justice Task Force. Nice to meet you all." She then starts. So, Hasumi... noted.
+
+
+
+"Also, Rin. Can we get details on what exactly we're here for?" Niko asks.
+
+"Ah, yes." She begins.
+
+"You're all here to serve as the advisor for a club that was formed by the General Student Council president."
+
+<center><strong>"The Federal Investigation Club: Schale."</strong></center>
+
+...hmm, federal investigation? That reminded me of the FBI, for some reason.
+
+"This isn't your average club- rather, it is more like a type of extrajudicial organization. Since it's a federal club, you will all be allowed to register students from any of the academies in Kivotos." Oh. That's....
+
+"You're permitted to conduct battle activities in each academy district without restriction." ...
+
+...isn't this a bit too much power for us? We're basically just a bunch of strangers here.
+
+...I have a feeling that President knows a lot more about us than what she's showing here.
+
+"How the president was able to create an organization with this much power, I have no idea." Rin adds.
+
+"The Schale club room is about 30 kilometers from here. The building is currently empty, but we had to put something in the basement at the president's request."
+
+...
+
+Yeah, that President girl knows a lot more than she's letting off.
+
+"It's my job to take you there." Rin then brings out a modern-looking cellphone. "Momoka. I need a helicopter to take us to the Schale club room." She then begins speaking into it...? A radio, perhaps?
+
+Shortly after, a hologram begins to manifest from it. Damn, their technology's advanced this far?
+
+The hologram then shows a short-statured girl with pink hair which looks to also be done in twintails, similar to Yuuka. 
