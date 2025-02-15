@@ -1,4 +1,9 @@
 
+
+
+<center><h3>Blue Archive: Leadership, Support, Chaos, Order and Magic</h3></center>
+
+
 Characters:
 
 "Tendou Shiro"
