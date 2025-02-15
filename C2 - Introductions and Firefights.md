@@ -258,11 +258,11 @@ A seemingly limitless and clean urban city, and a clear, pure blue sky.
 
 ///// POV: Shiro /////
 
-Noticing the ding, we all leave the observation deck, heading back to the office lounge. Once we got there, we find four familiar girls waiting. The one in twintails in particular has an annoyed expression.
+Noticing the ding, we all leave the observation deck, heading back to the office lounge. Once we got there, we find four familiar girls waiting. The one purple-haired girl in twintails in particular has an annoyed expression.
 
 "Ah! There you are, Acting President! We've all been waiting! Get the real president in here already!" That same girl with the expression is the first to break the silence, clearly angry.
 
-"I've been waiting to see you, Chief Officer." A second girl follows up. As much as we tried, we couldn't help but notice her rather... developed body, and her MASSIVE black wings.
+"I've been waiting to see you, Chief Officer." A second girl with long, black hair follows up. As much as we tried, we couldn't help but notice her rather... developed body, and her MASSIVE black wings.
 
 ...no, that is not a word mask. Her wings are genuinely massive.
 
@@ -286,7 +286,7 @@ Wearing a thinly veiled smile, Rin speaks up.
 
 "There are also rumors that a student under the Federal Corrections Bureau's custody has escaped." The elf girl follows up too.
 
-"There has been a sharp increase in the number of thugs attacking our students on their way to school. Public safety is not being properly enforced." A fourth girl then follows up too. Strange, I didn't notice her there. And is that a single wing on her head...?
+"There has been a sharp increase in the number of thugs attacking our students on their way to school. Public safety is not being properly enforced." A fourth girl with white hair then follows up too. Strange, I didn't notice her there. And is that a single wing on her head...?
 
 "Illegal distribution of tanks, choppers, and other unknown weapons have increased by over 2000 percent. At this rate, ordinary school life in Kivotos will be a thing of the past."
 
@@ -404,9 +404,19 @@ Rin fake-coughs to get our attention again. After that, she speaks up.
 
 "Hmm, well then. We should introduce ourselves too." The winged girl mentions.
 
-"Hanekawa Hasumi. Member of the Trinity Justice Task Force. Nice to meet you all." She then starts. So, Hasumi... noted.
+"Hanekawa Hasumi. Member and tactical commander of the Trinity Justice Task Force. Nice to meet you all." She then starts. So, Hasumi... noted.
 
+"Hinomiya Chinatsu, member and medic of the Gehenna Prefect Team. Nice to meet you too." The elf girl, Chinatsu, follows up.
 
+Trinity and Gehenna...
+
+Heaven and Hell...
+
+Coincidence, perhaps?
+
+"Hmm, alright then. Morizuki Suzumi, member of the Trinity Vigilante Crew. Nice to meet you, Senseis." The white-haired girl with a wing on her head, Suzumi, follows up last.
+
+"Well, repeat again. Nice to meet you all." I say, ending the intoductions.
 
 "Also, Rin. Can we get details on what exactly we're here for?" Niko asks.
 
@@ -438,4 +448,90 @@ Yeah, that President girl knows a lot more than she's letting off.
 
 Shortly after, a hologram begins to manifest from it. Damn, their technology's advanced this far?
 
-The hologram then shows a short-statured girl with pink hair which looks to also be done in twintails, similar to Yuuka. 
+The hologram then shows a short-statured girl, most likely this Momoka girl, with pink hair which looks to also be done in twintails, similar to Yuuka. She's also holding a bag of chips.
+
+Oh, that's an interesting halo. Five 4-pointed stars placed to resemble a crown.
+
+"The Schale club room?" Her voice has a light and lazy tone to it. "That's over in the outskirts. Things are kind of crazy over there right now..." She adds.
+
+"What do you mean 'crazy'?" Rin asks.
+
+"A suspended student escaped from the Corrections Bureau and is wreaking havoc. It's a battlefield over there right now!" Momoka follows up. That doesn't sound good.
+
+"...what?" Rin asks, **calmly**.
+
+"They rallied all the thugs in the area and are destroying everything in their path to get revenge on the General Student Council. I hear they've even got a Crusader Tank!"
+
+"They must be trying to occupy the Schale building because they know the General Student Council controls it. Maybe they think there's something valuable inside."
+
+"*The thing Rin mentioned that the president requested to be left in the basement...*" I ponder.
+
+Rin's expression looks pissed off. *Really* pissed off.
+
+"Oh, well. The city's already a dump, so I don't think it'll make that much of a difference... oh, great! The food I ordered is here. I'll talk to you later!" Momoka then hangs up the call.
+
+"*...for probably being a member of this GSC, she's pretty nonchalant about everything currently happening.*"
+
+I look back towards Rin, and notice she is *very much* pissed off.
+
+*snap*
+
+The phone in her hand then breaks from the overwhelming grip. Oh no.
+
+"Deep breaths, Rin. Deep breaths." I tell her. She then faces towards us with a menacing expression, making us all freeze on the spot.
+
+...mental note to not irritate her has been saved.
+
+"I'm fine... It's just a minor setback. No problem at all." She then lied, showing a fake, menacing smile.
+
+Suddenly, she realizes something, and faces herself towards the four girls instead.
+
+"...?" Hasumi is the first to notice.
+
+"What? Why are you looking at us like that?" Yuuka asks, a bit intimidated.
+
+Hmm... guns, and 30 kilometers of traveling... I have a feeling again.
+
+"It's so reassuring to have you trustworthy academy representatives here with us." Rin starts with a menacing smile again. Not there just yet...
+
+"Huh?"
+
+"We are going to need your help to bring peace back to Kivotos. Let's go." And there it is.
+
+Rin then walks away, with me and the others following suite, making sure to not tempt fate and anger her further.
+
+Though, she then suddenly stops in her tracks.
+
+"Oh, I've almost forgotten." Rin says, realizing something.
+
+"What is it?" I ask.
+
+"We aren't sure, but the president had mentioned that it would be important for all of you." She answers.
+
+"Huh?"
+
+"Could you please wait here for a moment?" She asks us.
+
+"Well, sure..." I answer, not exactly sure on what she meant by that.
+
+"Thank you." She then walks off to grab something from somewhere.
+
+"Wait, so where are we going?" Yuuka asks, confused.
+
+"We'll probably be off to regain access to the Sanctum Tower, given the current situation." Emiya answers.
+
+"Oh... wait, why do we have to be the ones to fight them?!" She shouts indignantly.
+
+"Well, you're the only ones here at the moment with more than capable weapons, so..." Kai trails off, letting them connect the dots.
+
+Yuuka sighs. "This day is getting more and more chaotic every passing minute..."
+
+After a moment, Rin eventually returns with something that immediately incites a heavy reaction out of us.
+
+"Huh?!" Me and Niko shout in surprise.
+
+"That is...!" Emiya responds, also surprised.
+
+"Wait, what?! What the HELL is Nano's staff doing here?!" Kai practically shouts, also surprised.
+
+Meanwhile, Nano is only staring in shock, his eyes as wide as they can be.
