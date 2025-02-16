@@ -534,4 +534,48 @@ After a moment, Rin eventually returns with something that immediately incites a
 
 "Wait, what?! What the HELL is Nano's staff doing here?!" Kai practically shouts, also surprised.
 
-Meanwhile, Nano is only staring in shock, his eyes as wide as they can be.
+Meanwhile, Nano is only staring in shock, his eyes as wide as they can be. All of the girls are caught off-guard, Rin included.
+
+Quickly regaining her composure, Rin speaks up.
+
+"Those reactions... that means this is important to all of you, yes?" She asks us.
+
+"...yes, very much. **Especially** to Nano." I answer.
+
+"Huh? What is that?" Yuuka asks, noticing the staff.
+
+"Hmm... it looks like those magic staffs you'd see in fantasy movies." Chinatsu answers indirectly as she scrutinizes it.
+
+"Why did you all react like that to seeing it?" Suzumi inquires, curious.
+
+"Well... if it works, then... I'll just have you all see it for yourselves." I answer. "Rin, can we have that staff?" I ask Rin.
+
+"None of us truly ever found out what it is for, so... I suppose." She then hands it over to me.
+
+"Well... as I said, you'll just have to see it for yourselves."
+
+---
+
+*Nano's magic staff.*
+
+*The one thing that allows him to use larger magnitudes of magic stably.*
+
+*We thought we had lost it a few months ago, after it suddenly disappeared, but...*
+
+*...turns out it was just here all along.*
+
+*Somehow.*
+
+*...just what is that president keeping hidden?*
+
+---
+
+I move over to Nano, handing the staff to him. He was hesitant at first, but breaks out of his trance and grabs it shortly after.
+
+"Well then, an opportunity to show what you're capable of." Kai says.
+
+"Could you guys stand back for a moment?" Niko asks the others.
+
+"Huh? Why?" Yuuka asks.
+
+"As I said, you'll see." I answer.
