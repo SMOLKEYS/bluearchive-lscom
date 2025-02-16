@@ -20,3 +20,4 @@ Age: 22
 
 "Kantami Nano"
 Age: 18
+Extra Notes: Mute (damaged vocal cords + overall quiet voice in general)

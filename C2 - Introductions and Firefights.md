@@ -472,7 +472,7 @@ Rin's expression looks pissed off. *Really* pissed off.
 
 "*...for probably being a member of this GSC, she's pretty nonchalant about everything currently happening.*"
 
-I look back towards Rin, and notice she is *very much* pissed off.
+I look back towards Rin, and notice she is, indeed, *very much* pissed off.
 
 *snap*
 
@@ -558,7 +558,7 @@ Quickly regaining her composure, Rin speaks up.
 
 *Nano's magic staff.*
 
-*The one thing that allows him to use larger magnitudes of magic stably.*
+*The one thing that allows him to use more magic by an actual order of magnitude.*
 
 *We thought we had lost it a few months ago, after it suddenly disappeared, but...*
 
@@ -578,4 +578,96 @@ I move over to Nano, handing the staff to him. He was hesitant at first, but bre
 
 "Huh? Why?" Yuuka asks.
 
-"As I said, you'll see." I answer.
+"As I said, you'll see." I answer. "You ready, Nano?" I ask him. He nods in response.
+
+"Alright, everyone, stand back!" Emiya commands.
+
+---
+
+///// POV: Nano /////
+
+*Is this... really my staff?*
+
+I look at the others, and they're giving me a look of assurance. Though, the girls are looking at us with confusion and curiosity.
+
+...
+
+*Okay, Nano, come on. You can do this.*
+
+Taking a deep breath, I close my eyes and began to channel the magical capabilities I have.
+
+...
+
+...
+
+...
+
+"Huh?!" Yuuka exclaims.
+
+"His body is glowing!" Suzumi points out. *It's working...*
+
+"Wait, what's that below him?" Chinatsu asks.
+
+"A magic circle manifesting." Kai answers simply.
+
+"Wait, MAGIC?!" Yuuka exclaims again.
+
+"Hush." Emiya silences the group. I notice that Shiro, Niko, Rin and Hasumi haven't said anything yet.
+
+Filtering out the background noise, I go back to focusing,
+
+...
+
+...
+
+*I can feel it.*
+
+Magic begins to flow all around my body, moving without a direction. *It's still unstable...*
+
+I then steel myself, focusing on letting it flow towards the staff.
+
+*Come on...!*
+
+---
+
+///// POV: Kai /////
+
+"*Holy shit, it's actually working!*" I think to myself as Nano's body begins glowing even more intensely, wrapping him in a sky-blue light. The magic circle below him is also beginning to take form, showing a beautiful flower pattern around him and a normal magic circle around it. The staff is also beginning to glow, too.
+
+So far, everyone else hasn't said a word, instead opting to just look at the unfolding events before them in awe.
+
+...
+
+It *might* just have dawned on me that we're basically just obliterating their original worldview.
+
+Oh well.
+
+---
+
+///// POV: Shiro /////
+
+As we watch Nano's magic show take place, the air suddenly starts to become heavier. At the same time, the aura around him intensifies.
+
+"What's going on?!" Yuuka asks in panic, noticing it.
+
+"Niko-sensei, what's happening?!" Rin asks Niko, also in a panic.
+
+"The air just got heavy! Everyone, brace yourselves!" He shouts out. The others follow silently as they begin to steel themselves.
+
+"What do you me-"
+
+*BOOOOM*
+
+"WOAH!"/"OH BOY!" Me and Niko exclaim.
+
+Yuuka gets cut off as Nano's magic manifestation completes, causing an explosion of pressure which pushes all of us back.
+
+All of us manage to stay upright, except for Yuuka herself and Kai.
+
+"Ow!"/"Gah!" The two lets out a sound of pain as they hit the ground.
+
+"You guys okay?" I ask the group.
+
+"My ass did not need that right now..." Kai answers, groaning.
+
+"Just what is even going on at this point?!" Yuuka exclaims, probably now overwhelmed.
