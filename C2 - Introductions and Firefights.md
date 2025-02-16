@@ -668,6 +668,30 @@ All of us manage to stay upright, except for Yuuka herself and Kai.
 
 "You guys okay?" I ask the group.
 
-"My ass did not need that right now..." Kai answers, groaning.
+"Yeah, I think... god, my ass did not need that right now..." Kai answers, groaning.
 
-"Just what is even going on at this point?!" Yuuka exclaims, probably now overwhelmed.
+"Just what is even going on at this point?!" Yuuka exclaims, overwhelmed.
+
+"You haven't seen everything just yet, Yuuka..." I trail off, looking back at Nano's direction.
+
+The glow fades away, revealing none other than Nano himself, surrounded by tiny glowing orbs. His staff is emitting a vibrant sky-blue light, and the magic circle beneath him has shrinked down significantly, just managing to span across him.
+
+We stay silent in anticipation, since his eyes are still closed.
+
+---
+
+///// POV: Nano /////
+
+...
+
+*Did... it work?*
+
+Everyone's staying silent. *This really doesn't help me.*
+
+Reluctantly, I slowly open my eyes. What then meets me is none other than my staff, now letting out a sky-blue glow. *It... it worked...*
+
+"...Earth to Nano? You okay?" Kai calls out to me.
+
+Slowly, I face myself towards them. Their eyes widen in surprise.
+
+"His left eye is glowing..." Chinatsu points out.
