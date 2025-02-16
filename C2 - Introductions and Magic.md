@@ -98,7 +98,7 @@ She certainly gives off an aura of elegance and authoritativeness. Though, at th
 
 Such is the ways of being in a high position, I suppose.
 
-"Hmm... you must be the ones the President sent, am I correct?" She guesses.
+"Hmm... you must be the ones the president sent, am I correct?" She guesses.
 
 "And I assume you must be this 'Rin-chan' girl this letter was mentioning." Shiro mentions, holding the letter. Looks like both our guesses were correct, seeing her reaction to the nickname.
 
@@ -146,7 +146,7 @@ Our eyes widen even more discovering that information. A city lead by students? 
 
 "Huh... wasn't expecting that answer." Kai responds, surprised.
 
-"And from what the letter contained, it seems you were all sent here by the President as teachers."
+"And from what the letter contained, it seems you were all sent here by the president as teachers."
 
 ...
 
@@ -182,7 +182,7 @@ Wait, hold on.
 
 "You do not need to refer to me by my family name, Emiya-sensei." Rin adds before gesturing for us to follow her.
 
-As we walk through the surprisingly large building, we end up in an observation deck, where we all end up seeing a breathtaking wide view of Kivotos.
+As we walk through the surprisingly large building, we end up in an observation deck, where we all end up seeing a breathtaking view of Kivotos.
 
 "Well, then... to formally end the introductions..."
 
@@ -276,13 +276,13 @@ Wearing a thinly veiled smile, Rin speaks up.
 
 ...I have a feeling that last part is targeted.
 
-"I am well aware why you irksome- I mean, important representatives have come here today." Me and the others suppressed a slight chuckle.
+"I am well aware why you irksome- I mean, important representatives have come here today." Me and the others suppress a light chuckle.
 
 "You're here to blame us for the fuss happening in the Academy City. Isn't that right?" Rin asks, her aura growing more and more menacing by the second.
 
 "If you're well aware, then do something! You represent the General Student Council, after all!" The first girl retorts. "Thousands of academy districts are in panic! Our academy's wind generator shut down just a few days ago!" She follows up.
 
-...did the President really just have a rope on everything?
+...did the president really just have a rope on everything?
 
 "There are also rumors that a student under the Federal Corrections Bureau's custody has escaped." The elf girl follows up too.
 
@@ -316,7 +316,7 @@ Holy shit.
 
 "..." Rin stays silent.
 
-"And what is the General Student Council President doing during such a sorry state of affairs? I demand to see her right this instant!" The first girl commands.
+"And what is the General Student Council president doing during such a sorry state of affairs? I demand to see her right this instant!" The first girl commands.
 
 Rin sighs, then speaks up again. Is she gonna mention that...?
 
@@ -342,7 +342,7 @@ Rin speaks up once more.
 
 ...yep, feeling confirmed.
 
-"...?!" The first girl makes a confused noise. Did she not notice us the entire time.
+"...?!" The first girl makes a confused noise. Did she not notice us this entire time?
 
 "...!" The elf girl also follows.
 
@@ -434,7 +434,7 @@ Coincidence, perhaps?
 
 ...isn't this a bit too much power for us? We're basically just a bunch of strangers here.
 
-...I have a feeling that President knows a lot more about us than what she's showing here.
+...I have a feeling that president knows a lot more about us than what she's showing here.
 
 "How the president was able to create an organization with this much power, I have no idea." Rin adds.
 
@@ -442,7 +442,7 @@ Coincidence, perhaps?
 
 ...
 
-Yeah, that President girl knows a lot more than she's letting off.
+Yeah, that president girl knows a lot more than she's letting off.
 
 "It's my job to take you there." Rin then brings out a modern-looking cellphone. "Momoka. I need a helicopter to take us to the Schale club room." She then begins speaking into it...? A radio, perhaps?
 
@@ -668,7 +668,7 @@ All of us manage to stay upright, except for Yuuka herself and Kai.
 
 "You guys okay?" I ask the group.
 
-"Yeah, I think... god, my ass did not need that right now..." Kai answers, groaning.
+"Ugh... yeah, I think. God, my ass did not need that right now..." Kai answers, groaning.
 
 "Just what is even going on at this point?!" Yuuka exclaims, overwhelmed.
 
@@ -695,3 +695,53 @@ Reluctantly, I slowly open my eyes. What then meets me is none other than my sta
 Slowly, I face myself towards them. Their eyes widen in surprise.
 
 "His left eye is glowing..." Chinatsu points out.
+
+"Woah..." Suzumi stares in deep intrigue.
+
+"...did it work?" Kai asks me.
+
+...
+
+*Everything seems to have gone well, so...*
+
+---
+
+///// POV: Kai /////
+
+Nano nods as an answer to my question.
+
+"...that confirms it. That is indeed, your missing staff." Emiya concludes.
+
+...
+
+"...Shiro-sensei?" Rin calls out to Shiro.
+
+"Yeah?"
+
+"...once we reclaim the Sanctum Tower, we all personally demand an explanation." She demands, brokering no room for arguments.
+
+"...sure. We all owe you guys one." Shiro answers, concluding the moment.
+
+"For now, know that we're also gonna be helping y'all in reaching the tower."
+
+"...I see. Shall we go, then?"
+
+"You ready to go, Nano?"
+
+He nods again in response.
+
+<center>"Alright then, here goes nothing..."</center>
+
+---
+
+///// POV: Yuuka /////
+
+...
+
+........
+
+...............
+
+What.....
+
+What is even going on anymore.....?

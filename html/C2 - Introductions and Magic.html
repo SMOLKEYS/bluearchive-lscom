@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>C2 - Introductions and Magic</title>
+  <style>
+html {
+color: #1a1a1a;
+background-color: #fdfdfd;
+}
+body {
+margin: 0 auto;
+max-width: 36em;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+hyphens: auto;
+overflow-wrap: break-word;
+text-rendering: optimizeLegibility;
+font-kerning: normal;
+}
+@media (max-width: 600px) {
+body {
+font-size: 0.9em;
+padding: 12px;
+}
+h1 {
+font-size: 1.8em;
+}
+}
+@media print {
+html {
+background-color: white;
+}
+body {
+background-color: transparent;
+color: black;
+font-size: 12pt;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3, h4 {
+page-break-after: avoid;
+}
+}
+p {
+margin: 1em 0;
+}
+a {
+color: #1a1a1a;
+}
+a:visited {
+color: #1a1a1a;
+}
+img {
+max-width: 100%;
+}
+svg {
+height: auto;
+max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+margin-top: 1.4em;
+}
+h5, h6 {
+font-size: 1em;
+font-style: italic;
+}
+h6 {
+font-weight: normal;
+}
+ol, ul {
+padding-left: 1.7em;
+margin-top: 1em;
+}
+li > ol, li > ul {
+margin-top: 0;
+}
+blockquote {
+margin: 1em 0 1em 1.7em;
+padding-left: 1em;
+border-left: 2px solid #e6e6e6;
+color: #606060;
+}
+code {
+font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+font-size: 85%;
+margin: 0;
+hyphens: manual;
+}
+pre {
+margin: 1em 0;
+overflow: auto;
+}
+pre code {
+padding: 0;
+overflow: visible;
+overflow-wrap: normal;
+}
+.sourceCode {
+background-color: transparent;
+overflow: visible;
+}
+hr {
+background-color: #1a1a1a;
+border: none;
+height: 1px;
+margin: 1em 0;
+}
+table {
+margin: 1em 0;
+border-collapse: collapse;
+width: 100%;
+overflow-x: auto;
+display: block;
+font-variant-numeric: lining-nums tabular-nums;
+}
+table caption {
+margin-bottom: 0.75em;
+}
+tbody {
+margin-top: 0.5em;
+border-top: 1px solid #1a1a1a;
+border-bottom: 1px solid #1a1a1a;
+}
+th {
+border-top: 1px solid #1a1a1a;
+padding: 0.25em 0.5em 0.25em 0.5em;
+}
+td {
+padding: 0.125em 0.5em 0.25em 0.5em;
+}
+header {
+margin-bottom: 4em;
+text-align: center;
+}
+#TOC li {
+list-style: none;
+}
+#TOC ul {
+padding-left: 1.3em;
+}
+#TOC > ul {
+padding-left: 0;
+}
+#TOC a:not(:hover) {
+text-decoration: none;
+}
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">C2 - Introductions and Magic</h1>
+</header>
+<p>///// POV: Shiro /////</p>
+<p>As we wait for Ayumu and Rin, I couldn’t help but wander around in my
+thoughts for a while.</p>
+<hr />
+<p><em>Hmm…</em></p>
+<p><em>If that president girl was the one who brought us here… how? And
+why?</em></p>
+<p><em>Everything in this city was odd. Bipedal animals, truly sentient
+robots, and most of all, armed schoolgirls with haloes.</em></p>
+<p><em>A place like this doesn’t exist on Earth, so… an alternate
+universe, perhaps?</em></p>
+<p><em>…</em></p>
+<p><em>Why am I not surprised?</em></p>
+<p><em>…</em></p>
+<p><em>Heh, probably has something to do with the weird stuff we’ve seen
+or have been involved in.</em></p>
+<hr />
+<p><em>First, our own home, Earth.</em></p>
+<p><em>We already knew long ago about the various… “quirks” that some
+people had, but to actually see them in person and even be a part of it
+is an entire experience on its own.</em></p>
+<p><em>Second, our nomadic lifestyle.</em></p>
+<p><em>For 5 years, we’ve traveled across the entire globe. We would
+constantly move around, rest in hotels, or camp if we were outdoors. In
+that time, we would also gather souvenirs, make various friends, good
+associates and even learn some languages. It was pretty good,
+honestly.</em></p>
+<p><em>And lastly, magic. ACTUAL. MAGIC.</em></p>
+<p><em>A few years back, news and headlines appeared of some people
+suddenly being able to manipulate and control elements and bring up
+actual magic circles. At first, people were split in between deep
+intrigue in how it works, and people who were outright calling it fake,
+saying it was just CGI and referring to science, notably the laws of
+physics and thermodynamics.</em></p>
+<p><em>Though, their worldview and those said laws would end up being
+utterly shattered within the span of a month as magic appeared
+EVERYWHERE, all over the globe with various people being blessed with
+it. Scientists tried their absolute damnedest to make it make logical
+sense, but failed. Meanwhile, the ones originally calling it fake were
+split in two categories:</em></p>
+<p><em>The ones who finally believed it, and the ones who became even
+more… delusional, for a lack of a better term that I know of. Various
+conspiracy theories like the waters being drugged by the government to
+give the illusion of magic, or some sort of invisible drones being used
+to manipulate elements like fire, or projectors for the magic circles,
+et cetera.</em></p>
+<p><em>Some people will never fail to amaze me and the others for the
+lengths they will go to just to deny something.</em></p>
+<p><em>As for us? Well, we didn’t have much to say, other than the
+thought of “well, this was inevitable”. It wasn’t a matter of IF it
+would happen, but WHEN. Meanwhile, surprisingly, the government hadn’t
+tried doing anything yet. They acknowledged it, but didn’t try doing
+anything to the people who had it. Whether or not that’s out of fear or
+patience, I’ll never know.</em></p>
+<p><em>For a few months, it’s just been business as usual. We eat,
+sleep, travel, sleep, eat, so on and so forth. Though, our routines did
+give us a chance to actually meet with the magic-bearers.</em></p>
+<p><em>It was certainly interesting and honestly pretty damn cool, to
+say the least.</em></p>
+<p><em>Eventually though, after a year, the ‘blessings’ stopped, leaving
+an estimated total of 15 million people with magical capabilities.
+During that timespan, new artifacts began to appear around the world,
+which could boost people’s magical capabilities, allow them to utilize
+new kinds of magic, or even give people who didn’t receive magical
+capabilities to actually use it. Meanwhile, existing ones also received
+magical power held in them.</em></p>
+<p><em>Though, it wasn’t all positives. Some artifacts would actually
+end up cursing people instead, with one of the worst cases being the
+Death Touch case, where a person in Europe could kill anything that he
+physically touched, except himself. Plant, animal, human, it didn’t
+matter. Plants would wilt and rot immediately, while animals and humans
+would have their hearts and brain activity INSTANTLY stop, collapsing
+and ending their life then and there.</em></p>
+<p><em>Unfortunately, he didn’t last very long, as he would be found
+dead by suicide just a week after receiving the curse. Poor
+guy.</em></p>
+<p><em>Though, anyways. Other than the dark cases, everything was, as I
+said, business as usual. Well, up until the last day of the magic
+drops.</em></p>
+<p><em>Imagine our surprise when Nano ended up being one of the last 100
+people to receive magical capabilities. Now imagine our surprise again
+when it was found out that his capabilities were amplified far, FAR
+higher than anyone else’s.</em></p>
+<p><em>…</em></p>
+<p><em>…oh wait, I went FAR off track there, did I?</em></p>
+<p><em>Well, to make a long story short: Shit has happened in our world,
+notably magic, and it made us desensitized to most surprising
+things.</em></p>
+<p><em>Honestly, am I just in a long-ass dream, or…</em></p>
+<hr />
+<p>I pinch my cheek. Niko notices me doing that.</p>
+<p>“Nope. Not a dream, Shiro.” He points out.</p>
+<p>“How’d you-”</p>
+<p>“I know you do that whenever we end up stumbling on something utterly
+stupid or absurd.”</p>
+<p>“…fair enough.”</p>
+<p>As I settle my long thought process, Ayumu appears from the office
+doors, probably done talking with Rin.</p>
+<p>“Uhm, you may all come in now.” Ayumu signals us to come into the
+office.</p>
+<p>“Alright, let’s go.”</p>
+<p>We stand up from the seats we’re in, and walk towards the office
+doors, which Ayumu is holding open.</p>
+<hr />
+<p>///// POV: Niko /////</p>
+<p>As we step into the office, we’re met with the usual cleanliness
+we’ve seen almost everywhere. This time, however, there’s a girl on the
+main office table, probably waiting for us. Perhaps this is that “Rin”
+girl?</p>
+<p>Her details are… quite elegant, to say the least. Long, straight jet
+black hair that almost touches the ground, with dark blue colors on the
+inner side that gets more saturated as it reaches the bottom, and
+similarly black bangs on her forehead. Alongside that is their probable
+standard uniform with gold buttons, and accents. Along her waist is a
+white belt with golden buckles, holding a pistol hoister.</p>
+<p>Though, the most noticeable details are her elf ears and halo, which
+has a bluish gradient and resembles a crown of sorts.</p>
+<p>She certainly gives off an aura of elegance and authoritativeness.
+Though, at the same time, she seems to be noticeably tired.</p>
+<p>Such is the ways of being in a high position, I suppose.</p>
+<p>“Hmm… you must be the ones the president sent, am I correct?” She
+guesses.</p>
+<p>“And I assume you must be this ‘Rin-chan’ girl this letter was
+mentioning.” Shiro mentions, holding the letter. Looks like both our
+guesses were correct, seeing her reaction to the nickname.</p>
+<p>“…please refrain from calling me by that name.” She quickly follows
+up.</p>
+<p>“Oh, sorry. Anyways, this is for you, then.” Shiro hands the letter
+over to Rin. “Feel free to take your time reading it.”</p>
+<p>She opens it up, grabbing the paper inside and silently reading it
+for a few moments.</p>
+<p>…</p>
+<p>She sighs. “President…” Then trails off, unsure of what to say.</p>
+<p>And then, another moment of silence.</p>
+<p>…</p>
+<p>“From what the letter says… you must be Shiro-sensei, am I correct?”
+She then breaks the silence.</p>
+<p><em>…Sensei?</em></p>
+<p>“Yeah, Tendou Shiro, that’s me.” Shiro confirms. “To my left is
+Tendou Niko, my brother.” Her eyes widen a bit when my name was
+mentioned. What could that be all about…?</p>
+<p>“Nice to meet you, miss… Nanagami?” I went ahead and used her last
+name instead for good measure. She nods in response.</p>
+<p>“And then, Hatora Emiya.”</p>
+<p>“Hm. A pleasure to meet you.”</p>
+<p>“To my right is Enami Kai…”</p>
+<p>“Nice to meet ya, Rin.”</p>
+<p>“…and lastly, Kantami Nano.”</p>
+<p>Nano only nods in response.</p>
+<p>“Likewise.” Rin nods. “My name is Nanagami Rin, current acting
+president of Kivotos, the academy city.” Our eyes widen a bit at the
+“Academy City” part.</p>
+<p>“Wait, ‘Academy City’? Then that means…” Kai trails off, awaiting
+Rin’s answer.</p>
+<p>“Precisely. Kivotos is comprised of thousands of academies, and is
+lead by Students.”</p>
+<p>Our eyes widen even more discovering that information. A city lead by
+students? Students most likely not even over the age of 18?
+Interesting…</p>
+<p>“Huh… wasn’t expecting that answer.” Kai responds, surprised.</p>
+<p>“And from what the letter contained, it seems you were all sent here
+by the president as teachers.”</p>
+<p>…</p>
+<p>Wait, hold on.</p>
+<p>“Teachers?” I repeat what Rin had just said.</p>
+<p>“Yes, but not in the traditional sense.” She affirms. “Students are
+taught through Blu-Ray Disks and combat tapes. Instead of traditional
+teaching, you will all instead act as ‘guides’ for them, as a way to
+lead them to the right direction, as it seems.”</p>
+<p>“Hmm…” Shiro ponders for a moment. “I see.”</p>
+<p>“Y’know, Shiro? I envy you sometimes.” Kai starts.</p>
+<p>“What?”</p>
+<p>“You already know what you’re doing. Meanwhile, I feel like an ape
+that just got dropped off in the middle of nowhere.” Weird analogy
+there, but I get it.</p>
+<p>“…hm, my apologies. I understand if this current situation may be
+very confusing for all of you.” Rin apologizes, slightly bowing her
+head. “However, I need you all to please follow me for now, as there is
+something I require your help with.”</p>
+<p>“What is it?” Shiro asks.</p>
+<p>“Well… let’s just say that it could… determine the very fate of the
+academy city as a whole.” Rin answers.</p>
+<p>…</p>
+<p>…</p>
+<p>…</p>
+<p>“…oh, well, this just got more serious than expected.” Kai responds
+after a moment.</p>
+<p>“Hmm… alright. Lead the way, Miss Nanagami.” Emiya drops the topic,
+signaling for us to go.</p>
+<p>“You do not need to refer to me by my family name, Emiya-sensei.” Rin
+adds before gesturing for us to follow her.</p>
+<p>As we walk through the surprisingly large building, we end up in an
+observation deck, where we all end up seeing a breathtaking view of
+Kivotos.</p>
+<p>“Well, then… to formally end the introductions…”</p>
+<p><br> <br></p>
+<center>
+“Shiro-sensei,”
+</center>
+<p><br></p>
+<center>
+“Niko-sensei,”
+</center>
+<p><br></p>
+<center>
+“Kai-sensei,”
+</center>
+<p><br></p>
+<center>
+“Emiya-sensei,”
+</center>
+<p><br></p>
+<center>
+“and Nano-sensei.”
+</center>
+<p><br> <br> <br> <br></p>
+<center>
+<strong>“Welcome to Kivotos.”</strong>
+</center>
+<p><br></p>
+<center>
+<strong>“This is where you will all be working, from now on.”</strong>
+</center>
+<p><br> <br> <br></p>
+<p>…</p>
+<p>“…holy shit.”</p>
+<p>“Woah…”</p>
+<p>“Oh, wow…”</p>
+<p>“This is…!”</p>
+<p>We all speak in absolute awe, with Nano staying silent, as usual. The
+sights below aren’t doing this city any justice.</p>
+<p>A seemingly limitless and clean urban city, and a clear, pure blue
+sky.</p>
+<p>…this is beautiful.</p>
+<p>…</p>
+<p>“It may be bound to be very different compared to where you all may
+live, however, something tells me that you all will adapt and do just
+fine here.” Rin breaks the silence.</p>
+<p>“Well, as a member of this five-man nomadic group… you won’t have to
+worry.” I speak, still taking in the sight.</p>
+<p>“That’s good.” She smiles. “We can leave the rest of the details for
+later.”</p>
+<p>“Alright then. Anyways, what’s our-” Shiro is suddenly cut off by an
+elevator ding.</p>
+<p>…</p>
+<p>“<em>Oh dear, that might be them.</em>” I think to myself,
+remembering the 4 girls at the ground floor.</p>
+<p>…</p>
+<hr />
+<p>///// POV: Shiro /////</p>
+<p>Noticing the ding, we all leave the observation deck, heading back to
+the office lounge. Once we got there, we find four familiar girls
+waiting. The one purple-haired girl in twintails in particular has an
+annoyed expression.</p>
+<p>“Ah! There you are, Acting President! We’ve all been waiting! Get the
+real president in here already!” That same girl with the expression is
+the first to break the silence, clearly angry.</p>
+<p>“I’ve been waiting to see you, Chief Officer.” A second girl with
+long, black hair follows up. As much as we tried, we couldn’t help but
+notice her rather… developed body, and her MASSIVE black wings.</p>
+<p>…no, that is not a word mask. Her wings are genuinely massive.</p>
+<p>“I’m here to meet with the General Student Council president. The
+Head Prefect has terms she would like to discuss.” A third girl with elf
+ears in glasses follows up.</p>
+<p>“Well… this timing is rather inconvenient.” Rin says, her eyes
+pointed over to the side. Look’s like she’s also irritated.</p>
+<p>Wearing a thinly veiled smile, Rin speaks up.</p>
+<p>“Hello. guests that represent neighboring academies’ student council,
+disciplinary boards, and those who otherwise have too much time on their
+hands.”</p>
+<p>…I have a feeling that last part is targeted.</p>
+<p>“I am well aware why you irksome- I mean, important representatives
+have come here today.” Me and the others suppress a light chuckle.</p>
+<p>“You’re here to blame us for the fuss happening in the Academy City.
+Isn’t that right?” Rin asks, her aura growing more and more menacing by
+the second.</p>
+<p>“If you’re well aware, then do something! You represent the General
+Student Council, after all!” The first girl retorts. “Thousands of
+academy districts are in panic! Our academy’s wind generator shut down
+just a few days ago!” She follows up.</p>
+<p>…did the president really just have a rope on everything?</p>
+<p>“There are also rumors that a student under the Federal Corrections
+Bureau’s custody has escaped.” The elf girl follows up too.</p>
+<p>“There has been a sharp increase in the number of thugs attacking our
+students on their way to school. Public safety is not being properly
+enforced.” A fourth girl with white hair then follows up too. Strange, I
+didn’t notice her there. And is that a single wing on her head…?</p>
+<p>“Illegal distribution of tanks, choppers, and other unknown weapons
+have increased by over 2000 percent. At this rate, ordinary school life
+in Kivotos will be a thing of the past.”</p>
+<p>…</p>
+<p>…</p>
+<p>A-wuh?</p>
+<p>Wuh-huh?</p>
+<p>Did I just hear that right?</p>
+<p>Unknown weapons?</p>
+<p>Choppers?</p>
+<p><strong>Tanks?</strong></p>
+<p><strong><em>By over 2000 percent!?</em></strong></p>
+<p>…</p>
+<p>…</p>
+<p>Holy shit.</p>
+<p>“…” Rin stays silent.</p>
+<p>“And what is the General Student Council president doing during such
+a sorry state of affairs? I demand to see her right this instant!” The
+first girl commands.</p>
+<p>Rin sighs, then speaks up again. Is she gonna mention that…?</p>
+<p>“The president is not here at the moment. To be frank, she’s gone
+missing.” There it is.</p>
+<p>“What?!” The first girl gasps in surprise.</p>
+<p>“…!” The elf girl says nothing, but her expression clearly shows
+shock.</p>
+<p>“So the rumors were true…” The winged girl confirms.</p>
+<p>Rin speaks up once more.</p>
+<p>“Allow me to cut to the chase. The General Student Council has no
+authority because the top administrator of the Sanctum Tower has gone
+missing.”</p>
+<p>“We had been searching for a way to bypass the need for verification,
+all to no avail… until recently.”</p>
+<p>…I have a feeling.</p>
+<p>“You mean you’ve found a way now, Chief Officer?” The winged girl
+asks.</p>
+<p>“That is correct. Sensei, or rather, the five Senseis here are the
+answer to our problems.” Rin answers simply, pointing to our
+direction.</p>
+<p>…yep, feeling confirmed.</p>
+<p>“…?!” The first girl makes a confused noise. Did she not notice us
+this entire time?</p>
+<p>“…!” The elf girl also follows.</p>
+<p>“These people?” The winged girl asks, referring to us.</p>
+<p>“Wait, us?” Kai asks, confused.</p>
+<p>“Hold up. Who are these people you’re talking about? What are they
+doing here in the first place?” The first girl asks.</p>
+<p>“Don’t ask us or Rin. We’re also clueless on how we ended up here.”
+Niko answers. “As for why we’re here… well, she can answer that.” He
+quickly follows up.</p>
+<p>“Whoever they all are, they don’t seem to be from Kivotos.”
+Correct.</p>
+<p>“Well, then. Shiro-sensei, would you mind if you all introduced
+yourselves again?” Rin asks me, or, well, us.</p>
+<p>“Not really, so, here.”</p>
+<p>I can already hear some writing off Nano’s notebook.</p>
+<p>“Tendou Shiro. Nice to meet you all.” I start.</p>
+<p>“Tendou Niko. To repeat what I said to Ayumu: Same sentiment. And
+yes, me and Shiro are siblings.” Niko follows up.</p>
+<p>“Hatora Emiya. It’s a pleasure to meet you.” Then Emiya.</p>
+<p>“Enami Kai. Nice to meet y’all.” Then Kai, and lastly…</p>
+<center>
+<i>Kantami Nano. Nice to meet you all too.</i>
+</center>
+<center>
+<i>I use a notebook because my voice doesn’t work. Sorry.</i>
+</center>
+<p>…Nano. We all gesture to his notebook.</p>
+<p>“Huh?” The first girl stops to read it. “Oh… hey, you don’t need to
+apologize about that!” She exclaims, her tone softening a bit. Nano
+really does bring out a more gentler side to some people, huh?</p>
+<p>The other three read it, and their eyes widen in response. The elf
+girl in particular showed a bit of empathy.</p>
+<p>…gonna assume they haven’t experienced talking to mute people
+before.</p>
+<p>“Ahem.”</p>
+<p>Rin fake-coughs to get our attention again. After that, she speaks
+up.</p>
+<p>“Introductions aside… not only are they going to be teaching in
+Kivotos, but they’ve also been personally selected by the General
+Student Council president.”</p>
+<p>“Huh? The president chose them? The one who’s now missing?” Yeah, we
+don’t know either. “Things are making less and less sense…”</p>
+<p>“Well, as Rin said, introductions aside, I repeat, nice to meet you
+all.” I greet the four.</p>
+<p>“R-right. It’s good to meet you all. I’m Millennium Science
+School’s…” …Millennium Science? I feel like I’ve heard of that somewhere
+before.</p>
+<p>“I-I mean, why am I even bothering to introduce myself right
+now?”</p>
+<p>“Don’t worry about that annoying girl. Let’s just move on…” Rin says
+with another menacing smile.</p>
+<p>“Who are you calling annoying?! I’m Hayase Yuuka! You should remember
+that name, Sensei!” The first girl, Yuuka, tells us.</p>
+<p>“Noted. Well, it’s nice to meet you too, Yuuka.” I say with a
+smile.</p>
+<p>“Hmm, well then. We should introduce ourselves too.” The winged girl
+mentions.</p>
+<p>“Hanekawa Hasumi. Member and tactical commander of the Trinity
+Justice Task Force. Nice to meet you all.” She then starts. So, Hasumi…
+noted.</p>
+<p>“Hinomiya Chinatsu, member and medic of the Gehenna Prefect Team.
+Nice to meet you too.” The elf girl, Chinatsu, follows up.</p>
+<p>Trinity and Gehenna…</p>
+<p>Heaven and Hell…</p>
+<p>Coincidence, perhaps?</p>
+<p>“Hmm, alright then. Morizuki Suzumi, member of the Trinity Vigilante
+Crew. Nice to meet you, Senseis.” The white-haired girl with a wing on
+her head, Suzumi, follows up last.</p>
+<p>“Well, repeat again. Nice to meet you all.” I say, ending the
+intoductions.</p>
+<p>“Also, Rin. Can we get details on what exactly we’re here for?” Niko
+asks.</p>
+<p>“Ah, yes.” She begins.</p>
+<p>“You’re all here to serve as the advisor for a club that was formed
+by the General Student Council president.”</p>
+<center>
+<strong>“The Federal Investigation Club: Schale.”</strong>
+</center>
+<p>…hmm, federal investigation? That reminded me of the FBI, for some
+reason.</p>
+<p>“This isn’t your average club- rather, it is more like a type of
+extrajudicial organization. Since it’s a federal club, you will all be
+allowed to register students from any of the academies in Kivotos.” Oh.
+That’s….</p>
+<p>“You’re permitted to conduct battle activities in each academy
+district without restriction.” …</p>
+<p>…isn’t this a bit too much power for us? We’re basically just a bunch
+of strangers here.</p>
+<p>…I have a feeling that president knows a lot more about us than what
+she’s showing here.</p>
+<p>“How the president was able to create an organization with this much
+power, I have no idea.” Rin adds.</p>
+<p>“The Schale club room is about 30 kilometers from here. The building
+is currently empty, but we had to put something in the basement at the
+president’s request.”</p>
+<p>…</p>
+<p>Yeah, that president girl knows a lot more than she’s letting
+off.</p>
+<p>“It’s my job to take you there.” Rin then brings out a modern-looking
+cellphone. “Momoka. I need a helicopter to take us to the Schale club
+room.” She then begins speaking into it…? A radio, perhaps?</p>
+<p>Shortly after, a hologram begins to manifest from it. Damn, their
+technology’s advanced this far?</p>
+<p>The hologram then shows a short-statured girl, most likely this
+Momoka girl, with pink hair which looks to also be done in twintails,
+similar to Yuuka. She’s also holding a bag of chips.</p>
+<p>Oh, that’s an interesting halo. Five 4-pointed stars placed to
+resemble a crown.</p>
+<p>“The Schale club room?” Her voice has a light and lazy tone to it.
+“That’s over in the outskirts. Things are kind of crazy over there right
+now…” She adds.</p>
+<p>“What do you mean ‘crazy’?” Rin asks.</p>
+<p>“A suspended student escaped from the Corrections Bureau and is
+wreaking havoc. It’s a battlefield over there right now!” Momoka follows
+up. That doesn’t sound good.</p>
+<p>“…what?” Rin asks, <strong>calmly</strong>.</p>
+<p>“They rallied all the thugs in the area and are destroying everything
+in their path to get revenge on the General Student Council. I hear
+they’ve even got a Crusader Tank!”</p>
+<p>“They must be trying to occupy the Schale building because they know
+the General Student Council controls it. Maybe they think there’s
+something valuable inside.”</p>
+<p>“<em>The thing Rin mentioned that the president requested to be left
+in the basement…</em>” I ponder.</p>
+<p>Rin’s expression looks pissed off. <em>Really</em> pissed off.</p>
+<p>“Oh, well. The city’s already a dump, so I don’t think it’ll make
+that much of a difference… oh, great! The food I ordered is here. I’ll
+talk to you later!” Momoka then hangs up the call.</p>
+<p>“<em>…for probably being a member of this GSC, she’s pretty
+nonchalant about everything currently happening.</em>”</p>
+<p>I look back towards Rin, and notice she is, indeed, <em>very
+much</em> pissed off.</p>
+<p><em>snap</em></p>
+<p>The phone in her hand then breaks from the overwhelming grip. Oh
+no.</p>
+<p>“Deep breaths, Rin. Deep breaths.” I tell her. She then faces towards
+us with a menacing expression, making us all freeze on the spot.</p>
+<p>…mental note to not irritate her has been saved.</p>
+<p>“I’m fine… It’s just a minor setback. No problem at all.” She then
+lied, showing a fake, menacing smile.</p>
+<p>Suddenly, she realizes something, and faces herself towards the four
+girls instead.</p>
+<p>“…?” Hasumi is the first to notice.</p>
+<p>“What? Why are you looking at us like that?” Yuuka asks, a bit
+intimidated.</p>
+<p>Hmm… guns, and 30 kilometers of traveling… I have a feeling
+again.</p>
+<p>“It’s so reassuring to have you trustworthy academy representatives
+here with us.” Rin starts with a menacing smile again. Not there just
+yet…</p>
+<p>“Huh?”</p>
+<p>“We are going to need your help to bring peace back to Kivotos. Let’s
+go.” And there it is.</p>
+<p>Rin then walks away, with me and the others following suite, making
+sure to not tempt fate and anger her further.</p>
+<p>Though, she then suddenly stops in her tracks.</p>
+<p>“Oh, I’ve almost forgotten.” Rin says, realizing something.</p>
+<p>“What is it?” I ask.</p>
+<p>“We aren’t sure, but the president had mentioned that it would be
+important for all of you.” She answers.</p>
+<p>“Huh?”</p>
+<p>“Could you please wait here for a moment?” She asks us.</p>
+<p>“Well, sure…” I answer, not exactly sure on what she meant by
+that.</p>
+<p>“Thank you.” She then walks off to grab something from somewhere.</p>
+<p>“Wait, so where are we going?” Yuuka asks, confused.</p>
+<p>“We’ll probably be off to regain access to the Sanctum Tower, given
+the current situation.” Emiya answers.</p>
+<p>“Oh… wait, why do we have to be the ones to fight them?!” She shouts
+indignantly.</p>
+<p>“Well, you’re the only ones here at the moment with more than capable
+weapons, so…” Kai trails off, letting them connect the dots.</p>
+<p>Yuuka sighs. “This day is getting more and more chaotic every passing
+minute…”</p>
+<p>After a moment, Rin eventually returns with something that
+immediately incites a heavy reaction out of us.</p>
+<p>“Huh?!” Me and Niko shout in surprise.</p>
+<p>“That is…!” Emiya responds, also surprised.</p>
+<p>“Wait, what?! What the HELL is Nano’s staff doing here?!” Kai
+practically shouts, also surprised.</p>
+<p>Meanwhile, Nano is only staring in shock, his eyes as wide as they
+can be. All of the girls are caught off-guard, Rin included.</p>
+<p>Quickly regaining her composure, Rin speaks up.</p>
+<p>“Those reactions… that means this is important to all of you, yes?”
+She asks us.</p>
+<p>“…yes, very much. <strong>Especially</strong> to Nano.” I answer.</p>
+<p>“Huh? What is that?” Yuuka asks, noticing the staff.</p>
+<p>“Hmm… it looks like those magic staffs you’d see in fantasy movies.”
+Chinatsu answers indirectly as she scrutinizes it.</p>
+<p>“Why did you all react like that to seeing it?” Suzumi inquires,
+curious.</p>
+<p>“Well… if it works, then… I’ll just have you all see it for
+yourselves.” I answer. “Rin, can we have that staff?” I ask Rin.</p>
+<p>“None of us truly ever found out what it is for, so… I suppose.” She
+then hands it over to me.</p>
+<p>“Well… as I said, you’ll just have to see it for yourselves.”</p>
+<hr />
+<p><em>Nano’s magic staff.</em></p>
+<p><em>The one thing that allows him to use more magic by an actual
+order of magnitude.</em></p>
+<p><em>We thought we had lost it a few months ago, after it suddenly
+disappeared, but…</em></p>
+<p><em>…turns out it was just here all along.</em></p>
+<p><em>Somehow.</em></p>
+<p><em>…just what is that president keeping hidden?</em></p>
+<hr />
+<p>I move over to Nano, handing the staff to him. He was hesitant at
+first, but breaks out of his trance and grabs it shortly after.</p>
+<p>“Well then, an opportunity to show what you’re capable of.” Kai
+says.</p>
+<p>“Could you guys stand back for a moment?” Niko asks the others.</p>
+<p>“Huh? Why?” Yuuka asks.</p>
+<p>“As I said, you’ll see.” I answer. “You ready, Nano?” I ask him. He
+nods in response.</p>
+<p>“Alright, everyone, stand back!” Emiya commands.</p>
+<hr />
+<p>///// POV: Nano /////</p>
+<p><em>Is this… really my staff?</em></p>
+<p>I look at the others, and they’re giving me a look of assurance.
+Though, the girls are looking at us with confusion and curiosity.</p>
+<p>…</p>
+<p><em>Okay, Nano, come on. You can do this.</em></p>
+<p>Taking a deep breath, I close my eyes and began to channel the
+magical capabilities I have.</p>
+<p>…</p>
+<p>…</p>
+<p>…</p>
+<p>“Huh?!” Yuuka exclaims.</p>
+<p>“His body is glowing!” Suzumi points out. <em>It’s working…</em></p>
+<p>“Wait, what’s that below him?” Chinatsu asks.</p>
+<p>“A magic circle manifesting.” Kai answers simply.</p>
+<p>“Wait, MAGIC?!” Yuuka exclaims again.</p>
+<p>“Hush.” Emiya silences the group. I notice that Shiro, Niko, Rin and
+Hasumi haven’t said anything yet.</p>
+<p>Filtering out the background noise, I go back to focusing,</p>
+<p>…</p>
+<p>…</p>
+<p><em>I can feel it.</em></p>
+<p>Magic begins to flow all around my body, moving without a direction.
+<em>It’s still unstable…</em></p>
+<p>I then steel myself, focusing on letting it flow towards the
+staff.</p>
+<p><em>Come on…!</em></p>
+<hr />
+<p>///// POV: Kai /////</p>
+<p>“<em>Holy shit, it’s actually working!</em>” I think to myself as
+Nano’s body begins glowing even more intensely, wrapping him in a
+sky-blue light. The magic circle below him is also beginning to take
+form, showing a beautiful flower pattern around him and a normal magic
+circle around it. The staff is also beginning to glow, too.</p>
+<p>So far, everyone else hasn’t said a word, instead opting to just look
+at the unfolding events before them in awe.</p>
+<p>…</p>
+<p>It <em>might</em> just have dawned on me that we’re basically just
+obliterating their original worldview.</p>
+<p>Oh well.</p>
+<hr />
+<p>///// POV: Shiro /////</p>
+<p>As we watch Nano’s magic show take place, the air suddenly starts to
+become heavier. At the same time, the aura around him intensifies.</p>
+<p>“What’s going on?!” Yuuka asks in panic, noticing it.</p>
+<p>“Niko-sensei, what’s happening?!” Rin asks Niko, also in a panic.</p>
+<p>“The air just got heavy! Everyone, brace yourselves!” He shouts out.
+The others follow silently as they begin to steel themselves.</p>
+<p>“What do you me-”</p>
+<p><em>BOOOOM</em></p>
+<p>“WOAH!”/“OH BOY!” Me and Niko exclaim.</p>
+<p>Yuuka gets cut off as Nano’s magic manifestation completes, causing
+an explosion of pressure which pushes all of us back.</p>
+<p>All of us manage to stay upright, except for Yuuka herself and
+Kai.</p>
+<p>“Ow!”/“Gah!” The two lets out a sound of pain as they hit the
+ground.</p>
+<p>“You guys okay?” I ask the group.</p>
+<p>“Ugh… yeah, I think. God, my ass did not need that right now…” Kai
+answers, groaning.</p>
+<p>“Just what is even going on at this point?!” Yuuka exclaims,
+overwhelmed.</p>
+<p>“You haven’t seen everything just yet, Yuuka…” I trail off, looking
+back at Nano’s direction.</p>
+<p>The glow fades away, revealing none other than Nano himself,
+surrounded by tiny glowing orbs. His staff is emitting a vibrant
+sky-blue light, and the magic circle beneath him has shrinked down
+significantly, just managing to span across him.</p>
+<p>We stay silent in anticipation, since his eyes are still closed.</p>
+<hr />
+<p>///// POV: Nano /////</p>
+<p>…</p>
+<p><em>Did… it work?</em></p>
+<p>Everyone’s staying silent. <em>This really doesn’t help me.</em></p>
+<p>Reluctantly, I slowly open my eyes. What then meets me is none other
+than my staff, now letting out a sky-blue glow. <em>It… it
+worked…</em></p>
+<p>“…Earth to Nano? You okay?” Kai calls out to me.</p>
+<p>Slowly, I face myself towards them. Their eyes widen in surprise.</p>
+<p>“His left eye is glowing…” Chinatsu points out.</p>
+<p>“Woah…” Suzumi stares in deep intrigue.</p>
+<p>“…did it work?” Kai asks me.</p>
+<p>…</p>
+<p><em>Everything seems to have gone well, so…</em></p>
+<hr />
+<p>///// POV: Kai /////</p>
+<p>Nano nods as an answer to my question.</p>
+<p>“…that confirms it. That is indeed, your missing staff.” Emiya
+concludes.</p>
+<p>…</p>
+<p>“…Shiro-sensei?” Rin calls out to Shiro.</p>
+<p>“Yeah?”</p>
+<p>“…once we reclaim the Sanctum Tower, we all personally demand an
+explanation.” She demands, brokering no room for arguments.</p>
+<p>“…sure. We all owe you guys one.” Shiro answers, concluding the
+moment.</p>
+<p>“For now, know that we’re also gonna be helping y’all in reaching the
+tower.”</p>
+<p>“…I see. Shall we go, then?”</p>
+<p>“You ready to go, Nano?”</p>
+<p>He nods again in response.</p>
+<center>
+“Alright then, here goes nothing…”
+</center>
+<hr />
+<p>///// POV: Yuuka /////</p>
+<p>…</p>
+<p>……..</p>
+<p>……………</p>
+<p>What…..</p>
+<p>What is even going on anymore…..?</p>
+</body>
+</html>
