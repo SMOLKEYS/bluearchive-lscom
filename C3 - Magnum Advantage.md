@@ -1,6 +1,6 @@
 ///// POV: Shiro /////
 
-Bullets whizz around us as we make our way to the Sanctum Tower, with various thugs (as the group called them) blocking our way, stopping us from getting there. Hasumi, Chinatsu me and the other 4 stay behind, while Suzumi and Yuuka take the frontlines.
+Bullets whizz around us as we make our way to the Sanctum Tower, with various delinquents and thugs (as the group called them) blocking our way, stopping us from getting there. Hasumi, Chinatsu me and the other 4 stay behind, while Suzumi and Yuuka take the frontlines.
 
 So far, our current formation is working relatively well; Hasumi and Chinatsu stay behind to provide heavy-hitting firepower and healing support if needed, while Suzumi stays somewhat close to us to provide extra firepower and disorient the enemies with her flashbangs, which then gives Yuuka the opportunity to gun them down with her dual-wield SMGs, which are apparently named "Logic" and "Reason".
 
@@ -38,4 +38,23 @@ As for me and the other 4, we're all currently laying low since we have no haloe
 
 "Yuuka! You doing okay over there?!" I shout towards her direction.
 
-"So far so good! My barrier's holding up for a lot longer than usual, which is helping!" She shouts back, tanking enemy fire with her calculator barrier, which Nano is secretly repairing.
+"So far so good! My barrier's holding up for a lot longer than usual, which is helping!" She shouts back, tanking enemy fire with her calculator barrier, aptly called "Q.E.D", which Nano is secretly repairing.
+
+---
+
+<center>[ OBSERVER ENTITY HAS REQUESTED INFORMATION. ]</center>
+<center>[ ACCESS GRANTED. ]</center>
+<center><details>
+<summary></summary>
+<center>[ TARGETED REPAIR - BASIC SUPPORT SKILL ]</center>
+<center>[ REPAIRS AN ELEMENT OF THE CASTER'S CHOOSING BY PROVIDING A CONSTANT FLOW OF MAGIC TO IT. ]</center>
+</details></center>
+
+---
+
+"...hmm, is your magic control fine, Nano?" Emiya asks Nano, to which he nods in response. "I see..."
+
+For now, we haven't tried out using Nano's magic for attacking, and have only been using it to constantly repair Yuuka's barrier. We aren't taking any chances on its stability for offensive attacks, or for the safety of the enemies. At the end of the day, they're still students like Yuuka, Hasumi, Chinatsu, Suzumi... and perhaps even Rin.
+
+...this world is strange.
+
