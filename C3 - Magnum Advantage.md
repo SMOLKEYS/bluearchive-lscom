@@ -1,6 +1,7 @@
-///// POV: Shiro /////
+///// POV: Shiro /////<br>
+///// 29.7KM /////
 
-Bullets whizz around us as we make our way to the Sanctum Tower, with various delinquents and thugs (as the group called them) blocking our way, stopping us from getting there. Hasumi, Chinatsu me and the other 4 stay behind, while Suzumi and Yuuka take the frontlines.
+Bullets whizz all around us as we make our way to the Sanctum Tower, with various delinquents and sukebans (as the group called them) blocking our way, stopping us from getting there. Hasumi, Chinatsu me and the other 4 stay behind, while Suzumi and Yuuka take the frontlines.
 
 So far, our current formation is working relatively well; Hasumi and Chinatsu stay behind to provide heavy-hitting firepower and healing support if needed, while Suzumi stays somewhat close to us to provide extra firepower and disorient the enemies with her flashbangs, which then gives Yuuka the opportunity to gun them down with her dual-wield SMGs, which are apparently named "Logic" and "Reason".
 
@@ -57,4 +58,71 @@ As for me and the other 4, we're all currently laying low since we have no haloe
 For now, we haven't tried out using Nano's magic for attacking, and have only been using it to constantly repair Yuuka's barrier. We aren't taking any chances on its stability for offensive attacks, or for the safety of the enemies. At the end of the day, they're still students like Yuuka, Hasumi, Chinatsu, Suzumi... and perhaps even Rin.
 
 ...this world is strange.
+
+---
+
+///// POV: Emiya /////<br>
+///// 23.3KM /////
+
+"Enemy with an RPG hiding behind that smoking vehicle!" I point out to Hasumi.
+
+"Got it." She nods in response. Reloading her weapon, she then fires a bullet charged with some sort of energy, striking the delinquent square on the head, knocking them out immediately.
+
+"*Hmm... are their haloes improving and strengthening their capabilities?*" I think to myself. "*Also, to hit a clean shot to the forehead at such a distance...*"
+
+"Hm. Impressive aim." I say somewhat offhandedly, realizing she managed to strike a headshot on a target a fair distance away with a scopeless rifle.
+
+"This is nothing compared to my typical work in Trinity, but regardless... thank you for the compliment." She responds back, her cheeks slightly dusted pink.
+
+---
+
+///// POV: Helmeted Delinquent A /////<br>
+///// 17.5KM /////
+
+"*Damn it! How are they tearing down our forces so easily?! It's literally HUNDREDS to FOUR! HOW?!*"
+
+"*Also, why won't that damned Millennium student's shield break?! We've been gunning it down for so long now! It even tanked THREE damn RPG rounds! Surely that would have been enough to break most shields, right?!*"
+
+As I continue shooting at the four opposing forces destroying our group, I notice something floating besides that huge Trinity student with a rifle. It looks like... a blue orb?
+
+"*...okay, now what the hell is that supposed to be now?*"
+
+"*...huh, it turned red? Wait, it's getting bigger, too.*"
+
+...wait, no.
+
+"*HUH?! IT"S HEADING STRAIGHT FOR ME-*"
+
+***BOOOOOOOOM***
+
+I get violently interrupted as it explodes in front of my face, launching me and the others back.
+
+"..."
+
+"...what... the fuck... was *that*....?"
+
+---
+
+///// POV: Shiro /////<br>
+///// 17.5KM /////
+
+"Ah..." I trail off, staring at the aftermath of Nano's orb explosion. "That... worked out."
+
+---
+
+
+<center>[ OBSERVER ENTITY HAS REQUESTED INFORMATION. ]</center>
+<center>[ ACCESS GRANTED. ]</center>
+<center><details>
+<summary></summary>
+<center>[ ROCKET ORB (ALPHA) - RARE OFFENSIVE/EXPLOSIVE SKILL ]</center>
+<center>[ COMPRESSES MAGIC DOWN TO AN ORB, OFTEN COLORED AFTER THE CASTER'S MAIN MAGIC COLOR. ]</center>
+<center>[ CHANGES TO A RED COLOR UPON LOCKING ONTO AN ENEMY, AND EXPLODES WHEN TARGET IS WITHIN APPROPRIATE DISTANCE. ]</center>
+<center>[ MOVES AT SUBSONIC SPEEDS, BUT DOES NOT CAUSE HEAVY SOUND DISRUPTIONS OR SONIC BOOMS. ]</center>
+<center>[ IT MAY SAFELY FLY PAST SOMEONE'S EAR. ]</center>
+<center>[ THE SKILL MUST BE AWAKENED TO 'GAMMA' RANK TO MANIPULATE SPEED. ]</center>
+</details></center>
+
+
+---
 
