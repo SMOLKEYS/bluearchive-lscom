@@ -1,5 +1,4 @@
-///// POV: Shiro /////<br>
-///// 29.7KM /////
+///// POV: Shiro ///// <> ///// 29.7KM to Sanctum Tower /////
 
 Bullets whizz all around us as we make our way to the Sanctum Tower, with various delinquents and sukebans (as the group called them) blocking our way, stopping us from getting there. Hasumi, Chinatsu me and the other 4 stay behind, while Suzumi and Yuuka take the frontlines.
 
@@ -39,7 +38,7 @@ As for me and the other 4, we're all currently laying low since we have no haloe
 
 "Yuuka! You doing okay over there?!" I shout towards her direction.
 
-"So far so good! My barrier's holding up for a lot longer than usual, which is helping!" She shouts back, tanking enemy fire with her calculator barrier, aptly called "Q.E.D", which Nano is secretly repairing.
+"So far so good! My barrier's holding up for a lot longer than usual thanks to Nano, which is helping!" She shouts back, tanking enemy fire with her calculator barrier, aptly called "Q.E.D", which Nano is repairing.
 
 ---
 
@@ -47,8 +46,9 @@ As for me and the other 4, we're all currently laying low since we have no haloe
 <center>[ ACCESS GRANTED. ]</center>
 <center><details>
 <summary></summary>
-<center>[ TARGETED REPAIR - BASIC SUPPORT SKILL ]</center>
+<center>[ TARGETED REPAIR (ALPHA) - BASIC SUPPORT SKILL ]</center>
 <center>[ REPAIRS AN ELEMENT OF THE CASTER'S CHOOSING BY PROVIDING A CONSTANT FLOW OF MAGIC TO IT. ]</center>
+<center>[ REPAIR SPEED CAN BE CONTROLLED, BUT AWAKENINGS ARE REQUIRED TO INCREASE SPEED BEYOND LIMITS. ]</center>
 </details></center>
 
 ---
@@ -61,8 +61,7 @@ For now, we haven't tried out using Nano's magic for attacking, and have only be
 
 ---
 
-///// POV: Emiya /////<br>
-///// 23.3KM /////
+///// POV: Emiya ///// <> ///// 23.3KM to Sanctum Tower /////
 
 "Enemy with an RPG hiding behind that smoking vehicle!" I point out to Hasumi.
 
@@ -76,8 +75,7 @@ For now, we haven't tried out using Nano's magic for attacking, and have only be
 
 ---
 
-///// POV: Helmeted Delinquent A /////<br>
-///// 17.5KM /////
+///// POV: Helmeted Delinquent A ///// <> ///// 17.5KM to Sanctum Tower /////
 
 "*Damn it! How are they tearing down our forces so easily?! It's literally HUNDREDS to FOUR! HOW?!*"
 
@@ -103,8 +101,7 @@ I get violently interrupted as it explodes in front of my face, launching me and
 
 ---
 
-///// POV: Shiro /////<br>
-///// 17.5KM /////
+///// POV: Shiro /////
 
 "Ah..." I trail off, staring at the aftermath of Nano's orb explosion. "That... worked out."
 
@@ -120,7 +117,8 @@ I get violently interrupted as it explodes in front of my face, launching me and
 <center>[ CHANGES TO A RED COLOR UPON LOCKING ONTO AN ENEMY, AND EXPLODES WHEN TARGET IS WITHIN APPROPRIATE DISTANCE. ]</center>
 <center>[ MOVES AT SUBSONIC SPEEDS, BUT DOES NOT CAUSE HEAVY SOUND DISRUPTIONS OR SONIC BOOMS. ]</center>
 <center>[ IT MAY SAFELY FLY PAST SOMEONE'S EAR. ]</center>
-<center>[ THE SKILL MUST BE AWAKENED TO 'GAMMA' RANK TO MANIPULATE SPEED. ]</center>
+<center>[ STRENGTH OF EXPLOSION CAN BE CONTROLLED, BUT AWAKENINGS ARE REQUIRED TO INCREASE POWER FURTHER. ]</center>
+<center>[ THE SKILL MUST BE AWAKENED TO 'DELTA' RANK TO MANIPULATE SPEED. ]</center>
 </details></center>
 
 
