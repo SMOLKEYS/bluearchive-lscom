@@ -105,22 +105,36 @@ I get violently interrupted as it explodes in front of my face, launching me and
 
 "Ah..." I trail off, staring at the aftermath of Nano's orb explosion. "That... worked out."
 
+"This silence... is fucking painful." Kai mutters, noticing that everyone has just completely stopped fighting after the orb exploded.
+
+Nano just stands where he is, and like the others at the moment, eyes wide and mouth agape.
+
+*...I don't think he, or literally everyone else, was expecting that.*
+
+"...hm, I think 'Rocket Orb' was too much." Emiya realizes.
+
+"...how do you even know that exists?" Niko asks Emiya.
+
+"I found out about it while talking to a magic-explosives expert back on Earth." He answers.
+
+"Alright..." Niko trails off.
+
+Meanwhile, Nano shifts his attention to us, a desperate "*Wil she be okay???*" on his face.
+
+"Yeah, she'll probably be fine... probably." I answer, unsure myself. "Anyways..."
+
 ---
 
+///// POV: Shiro ///// <> ///// 4.4KM to Sanctum Tower /////
 
-<center>[ OBSERVER ENTITY HAS REQUESTED INFORMATION. ]</center>
-<center>[ ACCESS GRANTED. ]</center>
-<center><details>
-<summary></summary>
-<center>[ ROCKET ORB (ALPHA) - RARE OFFENSIVE/EXPLOSIVE SKILL ]</center>
-<center>[ COMPRESSES MAGIC DOWN TO AN ORB, OFTEN COLORED AFTER THE CASTER'S MAIN MAGIC COLOR. ]</center>
-<center>[ CHANGES TO A RED COLOR UPON LOCKING ONTO AN ENEMY, AND EXPLODES WHEN TARGET IS WITHIN APPROPRIATE DISTANCE. ]</center>
-<center>[ MOVES AT SUBSONIC SPEEDS, BUT DOES NOT CAUSE HEAVY SOUND DISRUPTIONS OR SONIC BOOMS. ]</center>
-<center>[ IT MAY SAFELY FLY PAST SOMEONE'S EAR. ]</center>
-<center>[ STRENGTH OF EXPLOSION CAN BE CONTROLLED, BUT AWAKENINGS ARE REQUIRED TO INCREASE POWER FURTHER. ]</center>
-<center>[ THE SKILL MUST BE AWAKENED TO 'DELTA' RANK TO MANIPULATE SPEED. ]</center>
-</details></center>
+"Area clear!" I shout out.
 
+"The Sanctum Tower is close by. Just an estimated... four more kilometers until we reach it." Hasumi points out.
 
----
+With the tower close, me and the other 4 take a look at it.
 
+"Woah..." I look in awe. Amongst all the buildings, the Sanctum Tower stands as the tallest one. There looks to also be some sort of pillar at the top, which is somehow extending *even* higher up, reaching the sky haloes. Actually, hold on, it looks like the haloes come *from* the tower itself.
+
+*Rin did mention that the president was the top administrator for this tower... yeah, that checks out.*
+
+*...it hasn't even been a day since we arrived, and somehow I'm already getting used to whatever mysteries this president left behind.*
