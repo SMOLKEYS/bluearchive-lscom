@@ -193,11 +193,11 @@ Setting my thoughts aside, I suddenly receive a call from Rin from this little d
 
 "Seriously?! Who is it?" Yuuka asks, uneasy.
 
-"Could it be that escaped Corrections Bureau student that Momoka mentioned?" I ask.
+"Could it be that escaped Corrections Bureau student that Momoka girl mentioned?" I ask.
 
 "Precisely. She is known by her identity, the 'Fox of Calamity', and by the name of Kosaka Wakamo."
 
-"Huh?! *That* Fox of Calamity?!" Yuuka shouts out indignantly.
+"Huh?! *That* Fox of Calamity?!" Yuuka shouts out in surprise.
 
 "Can we get any details about her?" Emiya inquires.
 
@@ -237,7 +237,7 @@ Actually, hold on...
 
 "Alright then, we're cutting the connection now." I say.
 
-"Understood. I'll be there once control over the tower has been regained. Best of luck to everyone." Rin concludes before I cut the connection.
+"Understood. I'll be there once control over the tower has been regained. Be careful, and best of luck to everyone." Rin concludes before I cut the connection.
 
 "Haah... as if this wasn't chaotic enough, now we also have to deal with that fox..." Yuuka groans.
 
@@ -306,7 +306,7 @@ Three orbs begin manifesting beside me, their color a beautiful sky-blue.
 
 <center><strong>[ 'FRONT BARRIER' ]</strong></center>
 
-I then prepare a barrier, since this will need me to be visible to the others.
+Utilizing a defense skill that Niko told me, I then prepared a magic barrier, since this will need me to be visible to the others.
 
 *One...*
 
@@ -316,9 +316,11 @@ I then prepare a barrier, since this will need me to be visible to the others.
 
 The orbs begin to shift to a red color, as it does that, I stand, now visible to the enemies. Their attention shifts to me, or more precisely, the orbs.
 
+Then, with a skill I personally found myself...
+
 <center><strong>[ 'PERCEPTION BOOST' ]</strong></center>
 
-...I feel time slow down around me, and I feel my senses heighten. Using it to my advantage, I scan the group.
+...I feel time slow down, and my senses heighten. Using it to my advantage, I scan the group.
 
 *Three large groups... looks like some of them know what the orbs are...*
 
@@ -336,7 +338,7 @@ I designate a trajectory for each orb to strike. Then, taking a deep breath...
 
 *BOOOOOOOOOOOM*
 
--but to no avail, as the three orbs strike down each group in unison, exploding and instantly knocking them all out.
+-but to no avail, as the three orbs strike down each group in unison, exploding at full force (well, up until the skill's current upper limit, at least) and instantly knocking them all out.
 
 ...
 
@@ -367,19 +369,21 @@ The battleground goes silent again.
 
 ---
 
-"Holy... shit..." Kai breaks the silence, aghast at what just occurred.
+*Ah... well, uh... that was...*
+
+"Holy... shit..." Kai breaks the silence, aghast at what just occurred. 
 
 The remaining delinquents stare at the aftermath, then back at me with visible fear in some of them.
 
 "S-shit, screw this! Fall back! NOW!" One of them shouts in fear, running away. The others instantly follow suite, horrified that their massive group was quickly dealt with.
 
-"N-nope! Nope! Not dealing with *that*!"
+"N-nope! Nope! Not dealing with *that*!" Another one runs away.
 
-"Please spare me, please spare me, please spare me!!!" 
+"Please spare me, please spare me, please spare me!!!" And another. *Is she crying?*
 
-"I knew I shouldn't have been a part of this!"
+"I knew I shouldn't have been a part of this!" ...and the last one.
 
-With the delinquents scattering away, again, silence.
+With the delinquents scattering away, once again, silence.
 
 ...
 
@@ -398,4 +402,42 @@ With the delinquents scattering away, again, silence.
 Recovering from the stunlock, we begin the last trek to the tower.
 
 ---
+
+///// POV: Shiro ///// <> ///// 150M to Sanctum Tower ////
+
+"Almost there! The entrance is visible from here!" I say.
+
+"Yes! Finally! I've had enough running for one day!" Yuuka shouts angrily, tired from all the running.
+
+After a bit, we stop and hide, noticing the amasse of delinquents there.
+
+"Lay low for now and take a short break. We'll be retaliating in a minute." Emiya commands, to which the others more than gladly follow, hiding behind debris and destroyed vehicles.
+
+"Wait... Nano-sensei, couldn't you just send those... rocket orbs towards them?" Yuuka inquires.
+
+"He could, but we aren't betting on him passing out from overusing his magic." Kai answers for Nano.
+
+"Oh..." Yuuka trails off, realizing that's a possibility.
+
+Fair assumption. Sure, it was found out that Nano's magic capacity is far higher than literally every single magic user back on Earth, but having him collapse from overusing it, WHILE in the middle of a literal gunfight, is probably the worst chain of events that could happen. **Especially** if the enemy isn't aware we aren't bullet resistant like the other students.
+
+So far, Nano has used 4 skills: The Targeted Repair skill for Yuuka's barrier, 4 Rocket Orbs, one on a small group, and three on a large group, then the Front Barrier to protect himself against the large group while setting targets for those three orbs, and lastly, the Perception Boost skill to decrease the time he needed to assess the aformentioned targets.
+
+And within that timespan, he hasn't been struck by any sudden fatigue, which is what magic users experience when overusing their skills.
+
+"Alright, checking the area..." Niko enters line of sight slowly, assessing the stuff the enemies have. "A *bunch'a* delinquents, as usual. Though, this time it looks like they have a tank... and I also see someone on top of it." He shortly reports.
+
+"A tank... must be the Crusader Tank that Momoka girl mentioned earlier." Emiya assumes.
+
+"Can you see whose the one above it from here?" I ask Niko.
+
+"Not much, though... oh dear, fox ears, tail, and a mask." He points out.
+
+"Oh no. Hasumi, could you go confirm that?" Kai asks Hasumi.
+
+"Sure." She enters line of sight, and squints her eyes a bit. "...target confirmed. The one above the tank is, indeed, the Fox of Calamity." She follows up, hiding again.
+
+"Scheiße... looks like we'll have to deal with her after all." Kai says, swearing in German for some reason. Chinatsu narrows her eyes upon hearing that.
+
+*...does she understand German?*
 
