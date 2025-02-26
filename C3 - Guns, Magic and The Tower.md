@@ -147,7 +147,7 @@ Nano just stands where he is, and like the others at the moment, eyes wide and m
 
 ---
 
-Meanwhile, Nano shifts his attention to us, a desperate "*Wil she be okay???*" on his face.
+Meanwhile, Nano shifts his attention to us, a desperate "*Wil she be okay???*" expression on his face.
 
 "Yeah, she'll probably be fine... probably." I answer, unsure myself. "Anyways..."
 
