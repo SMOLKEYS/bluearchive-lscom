@@ -1,6 +1,6 @@
 ///// POV: Shiro ///// <> ///// 29.7KM to Sanctum Tower /////
 
-Bullets whizz all around us as we make our way to the Sanctum Tower, with various delinquents and sukebans (as the group called them) blocking our way, stopping us from getting there. Hasumi, Chinatsu me and the other 4 stay behind, while Suzumi and Yuuka take the frontlines.
+Bullets whizz all around us as we make our way to the Sanctum Tower, with various delinquents and sukebans (as the group called them) blocking our way, stopping us from getting there. Hasumi, Chinatsu, me and the other 4 stay behind, while Suzumi and Yuuka take the frontlines.
 
 So far, our current formation is working relatively well; Hasumi and Chinatsu stay behind to provide heavy-hitting firepower and healing support if needed, while Suzumi stays somewhat close to us to provide extra firepower and disorient the enemies with her flashbangs, which then gives Yuuka the opportunity to gun them down with her dual-wield SMGs, which are apparently named "Logic" and "Reason".
 
@@ -38,7 +38,7 @@ As for me and the other 4, we're all currently laying low since we have no haloe
 
 "Yuuka! You doing okay over there?!" I shout towards her direction.
 
-"So far so good! My barrier's holding up for a lot longer than usual thanks to Nano, which is helping!" She shouts back, tanking enemy fire with her calculator barrier, aptly called "Q.E.D", which Nano is repairing.
+"So far so good! My barrier's holding up for a lot longer than usual thanks to Nano-sensei, which is helping!" She shouts back, tanking enemy fire with her calculator barrier, aptly called "Q.E.D", which Nano is repairing.
 
 ---
 
@@ -77,7 +77,7 @@ For now, we haven't tried out using Nano's magic for attacking, and have only be
 
 ---
 
-///// POV: Helmeted Delinquent A ///// <> ///// 17.5KM to Sanctum Tower /////
+///// POV: Luna ///// <> ///// 17.5KM to Sanctum Tower /////
 
 "*Damn it! How are they tearing down our forces so easily?! It's literally HUNDREDS to FOUR! HOW?!*"
 
@@ -85,17 +85,17 @@ For now, we haven't tried out using Nano's magic for attacking, and have only be
 
 As I continue shooting at the four opposing forces destroying our group, I notice something floating besides that huge Trinity student with a rifle. It looks like... a blue orb?
 
-"*...okay, now what the hell is that supposed to be now?*"
+"*...okay, now what the hell is that supposed to be?*"
 
-"*...huh, it turned red? Wait, it's getting bigger, too.*"
+"*...huh, it turned red? Wait, it's shaking, too.*"
 
-...wait, no.
+...wait.
 
 "*HUH?! IT"S HEADING STRAIGHT FOR ME-*"
 
 ***BOOOOOOOOM***
 
-I get violently interrupted as it explodes in front of my face, launching me and the others back.
+I get violently interrupted as it explodes in front of my face, launching me and the others near me away.
 
 "..."
 
@@ -141,7 +141,7 @@ Nano just stands where he is, and like the others at the moment, eyes wide and m
 <center>///</center>
 <center>[ STRENGTH OF EXPLOSION CAN BE CONTROLLED, BUT AWAKENINGS ARE REQUIRED TO INCREASE POWER FURTHER. ]</center>
 <center>///</center>
-<center>[ THE SKILL MUST BE AWAKENED TO 'DELTA' RANK TO MANIPULATE SPEED. ]</center>
+<center>[ THE SKILL MUST BE AWAKENED TO 'DELTA' RANK TO MANIPULATE SPEED AND TRAJECTORY (IN REAL TIME). ]</center>
 </details></center>
 
 
@@ -179,7 +179,7 @@ With the tower close, me and the other 4 take a good look at it.
 
 *...it hasn't even been a third of the day since we arrived, and somehow I'm already getting used to whatever mysteries she left behind.*
 
-Setting my thoughts aside, I suddenly receive a call from Rin from this little drone she gave us. I pick it up, and throw the drone upwards. It stabilizes, and starts bringing her hologram into view.
+Setting my thoughts aside, I suddenly receive a call from Rin on this little drone she gave us. I pick it up, and throw the drone upwards. It stabilizes, and starts bringing her hologram into view.
 
 "Rin? What's up?" I ask.
 
@@ -196,6 +196,8 @@ Setting my thoughts aside, I suddenly receive a call from Rin from this little d
 "Could it be that escaped Corrections Bureau student that Momoka girl mentioned?" I ask.
 
 "Precisely. She is known by her identity, the 'Fox of Calamity', and by the name of Kosaka Wakamo."
+
+"...!" Hasumi, Chinatsu and Suzumi react silently.
 
 "Huh?! *That* Fox of Calamity?!" Yuuka shouts out in surprise.
 
@@ -215,19 +217,19 @@ Setting my thoughts aside, I suddenly receive a call from Rin from this little d
 
 "Oh yeah, almost forgot to mention this, but we've started joining the others in direct firefights with Nano's magic." I follow up.
 
-"I see. I presume it can now be considered stable enough for attacking?" Rin asks.
+"I see. I presume it can now be considered stable enough for retaliating?" Rin asks.
 
 "Yeah. It's helping out by a *massive* margin, and hasn't gone unstable the entire time." I answer.
 
 Actually, hold on...
 
-"Wait. Nano, you doing okay?" I ask, *just* remembering that his magic capacity isn't unlimited. He nods in response. "Alright, good."
+"Wait a second... hey, Nano, you doing okay?" I ask, *just* remembering that his magic capacity isn't unlimited. He turns his head in confusion, but nods in response shortly after. "Alright, good."
 
 "Is something wrong?" Chinatsu asks.
 
-"Just remembered that stored magic isn't necessarily unlimited." I answer.
+"Just remembered that his stored magic isn't necessarily unlimited." I answer.
 
-"Wasn't it mentioned that Nano's magic capacity is higher than everyone else's by an order of magnitude?" Kai questions.
+"Uh, but wasn't it mentioned that his magic capacity is higher than everyone else's by an order of magnitude?" Kai questions.
 
 "I remember that clear as day, but we've never had to use it to *this* extent." I follow up.
 
@@ -243,8 +245,15 @@ Actually, hold on...
 
 "Well... we don't have much of a choice now. It's either luck or strength that'll get us through." Emiya says.
 
-"That's that then. Everyone ready to go one last time?"
+"Also, Shiro-sensei, I've been meaning to ask, but you, Emiya-sensei, Kai-sensei and Niko-sensei don't have magic?" Chinatsu inquires.
+
+"Nope, no magic in us. I'll add this to the explanation once we reclaim Sanctum, but to make a long story short: Back in our place, 15 million people all around the globe were given magical capabilities over a year. Nano was one of the last 100 to receive it on the last day, but his was far, *far* more powerful than anyone else's." I answer.
+
+"I see..." Chinatsu trails off, thinking about it.
+
+"Well, as I said: Save the questions for when the magic explanation is due. Everyone ready to go one last time?"
 <br>
+
 ---
 
 "Always ready."
@@ -302,11 +311,13 @@ Shifting my attention back to the staff. I begin to manifest offensive magic aga
 
 <center><strong>[ 'ROCKET ORB' 3X ]</strong></center>
 
-Three orbs begin manifesting beside me, their color a beautiful sky-blue.
+Three orbs escape the staff's core, their color a beautiful sky-blue.
 
 <center><strong>[ 'FRONT BARRIER' ]</strong></center>
 
-Utilizing a defense skill that Niko told me, I then prepared a magic barrier, since this will need me to be visible to the others.
+Utilizing a defense skill that Niko told me, I then prepared a magic barrier, since this will need me to be visible to the enemies.
+
+*Alright... just big enough to keep me safe. Now...*
 
 *One...*
 
@@ -320,7 +331,9 @@ Then, with a skill I personally found myself...
 
 <center><strong>[ 'PERCEPTION BOOST' ]</strong></center>
 
-...I feel time slow down, and my senses heighten. Using it to my advantage, I scan the group.
+...I feel time slow down significantly, and my senses heighten. Using it to my advantage, I scan the group.
+
+"Shit! Guys, shoot.... th....ose..... o....rb........s......!" One of the delinquents notices the orbs, but calls out too late as her voice slows down.
 
 *Three large groups... looks like some of them know what the orbs are...*
 
@@ -334,7 +347,7 @@ I designate a trajectory for each orb to strike. Then, taking a deep breath...
 
 ...I slash my staff forward, signaling the orbs to strike. At the same time, I drop my perception boost, restoring time back to normal speed.
 
-"Huh?! Wait, EVERYONE, GET AWA-" One of the delinquents tries warning the others, while some point their guns at me-
+"Huh?! SHIT! EVERYONE, GET AWA-" That same delinquent, noticing the orbs shaking, tries warning the others, while some point their guns at me-
 
 *BOOOOOOOOOOOM*
 
@@ -419,9 +432,9 @@ After a bit, we stop and hide, noticing the amasse of delinquents there.
 
 "Oh..." Yuuka trails off, realizing that's a possibility.
 
-Fair assumption. Sure, it was found out that Nano's magic capacity is far higher than literally every single magic user back on Earth, but having him collapse from overusing it, WHILE in the middle of a literal gunfight, is probably the worst chain of events that could happen. **Especially** if the enemy isn't aware we aren't bullet resistant like the other students.
+Fair assumption. Sure, it was found out that Nano's magic capacity is far higher than literally every single magic user back on Earth, but having him collapse from overusing it, WHILE in the middle of a literal gunfight, is probably the worst chain of events that could happen. **Especially** if the enemy isn't aware that we aren't bullet resistant like the other students.
 
-So far, Nano has used 4 skills: The Targeted Repair skill for Yuuka's barrier, 4 Rocket Orbs, one on a small group, and three on a large group, then the Front Barrier to protect himself against the large group while setting targets for those three orbs, and lastly, the Perception Boost skill to decrease the time he needed to assess the aformentioned targets.
+So far, Nano has used 4 skills: The Targeted Repair skill for Yuuka's barrier, then 4 Rocket Orbs, one on a small group, and three on a large group, then the Front Barrier to protect himself against the large group while setting targets for those three orbs, and lastly, the Perception Boost skill to decrease the time he needed to assess the aformentioned targets.
 
 And within that timespan, he hasn't been struck by any sudden fatigue, which is what magic users experience when overusing their skills.
 
@@ -429,15 +442,198 @@ And within that timespan, he hasn't been struck by any sudden fatigue, which is 
 
 "A tank... must be the Crusader Tank that Momoka girl mentioned earlier." Emiya assumes.
 
-"Can you see whose the one above it from here?" I ask Niko.
+"Can you see whose the one standing above it from here?" I ask Niko.
 
 "Not much, though... oh dear, fox ears, tail, and a mask." He points out.
 
 "Oh no. Hasumi, could you go confirm that?" Kai asks Hasumi.
 
-"Sure." She enters line of sight, and squints her eyes a bit. "...target confirmed. The one above the tank is, indeed, the Fox of Calamity." She follows up, hiding again.
+"Affirmative." She enters line of sight, and squints her eyes a bit. "...target confirmed. The one above the tank is, indeed, the Fox of Calamity." She follows up, hiding again.
 
-"Scheiße... looks like we'll have to deal with her after all." Kai says, swearing in German for some reason. Chinatsu narrows her eyes upon hearing that.
+"**Scheiße**... looks like we'll have to deal with her after all." Kai says, swearing in German for some reason. Chinatsu narrows her eyes upon hearing that.
 
-*...does she understand German?*
+"*...does she understand German?*"
+
+"Wouldn't a 'Rocket Orb' work on her?" Kai asks.
+
+"It could, but she is very resilient to explosions, and her reaction time is unmatched, meaning she can very likely see and dodge the orb with exceptional speed." Hasumi answers.
+
+"Ugh, now that just sucks... guess it's the gun-down route again." Kai groans. "How's everyone's ammo doing?" He asks the others.
+
+"Well... enough to deal with the troublemakers, but way too little to deal with Wakamo." Yuuka responds.
+
+"Since I only provide support... my supply is still plentiful, but I doubt I can do much." Then, Chinatsu.
+
+"...like Yuuka, just enough rounds to deal with the heavy ones." Then Hasumi.
+
+"My ammo is good, but I only have about 15 flashbangs left..." Then Suzumi, responding a bit sadly.
+
+"Hmm... alright then. Nano, think you can do three more Rocket Orbs?" I ask Nano. As usual, he nods in response. "Good. I have a plan."
+
+"What is it?" Emiya asks.
+
+"Alright, so, to start..."
+
+---
+
+///// POV: Nano ///// <> ///// 75M to Sanctum Tower /////
+
+"Fufufu~ looks like the puppies of the General Student Council have come to stop me. How adorable~" Wakamo says, a hint of teasing and mockery in her voice.
+
+*Ghh... scary...*
+
+As the four girls catch her attention, I begin focusing on my staff once more.
+
+<center><strong>[ 'ROCKET ORB' 3X ]</strong></center>
+
+And, once again, three orbs leave its core. I slowly charge them with magic, waiting for the right time to strike.
+
+*RATATATATATATAT*
+
+*Gunshots... the fight has started!*
+
+"Flashbangs going out!" Suzumi shouts, throwing *five* flashbangs at once.
+
+*How did she pull all those pins at once?*
+
+"Agh!"
+
+"Wah!"
+
+"MY EYES!"
+
+The delinquents cry out after being flashed.
+
+"Alright, Yuuka! Your turn!" Shiro shouts at Yuuka.
+
+"Here goes nothing!" She pops up from her place, and starts gunning down the disoriented targets.
+
+"Hasumi! Think you can strike the tank?" Emiya asks Hasumi.
+
+"I can." She answers simply. Taking a deep breath, a dark aura suddenly starts manifesting around her.
+
+"...what in-" Emiya tries responding in surprise, but is suddenly cut off by Hasumi firing a seemingly *supercharged* bullet, which hits the tank and inflicts significant damage to it.
+
+"...huh. Well, color me impressed." Emiya says, surprised and impressed.
+
+"Well, my job here is done. You can all take care of the rest~" Wakamo says, leaving the battlegrounds.
+
+*She actually left the scene...* I think to myself, surprised when Shiro had predicted that Wakamo would actually leave after a bit.
+
+*Alright, now's my time...*
+
+<center><strong>[ 'FRONT BARRIER' ]</strong></center>
+
+I begin speeding up the magic output to the orbs, and prepare another barrier to protect myself.
+
+*Again, one...*
+
+*Two...*
+
+*And... THREE!*
+
+The orbs turn red, and I enter into view, preparing my staff.
+
+<center><strong>[ 'PERCEPTION BOOST' ]</strong></center>
+
+Before the delinquents can even notice me, I immediately cast Perception Boost, slowing down time once more.
+
+*So... two large groups and the tank.*
+
+I assess the surrounding area. A bunch of delinquents, conscious and unconscious, and the tank, which is partially smoking.
+
+*Alright, here... there, and... finally, the tank.*
+
+I successfully assign targets for the rocket orbs to hit. Taking another deep breath...
+
+*BZZZT*
+
+*...huh?*
+
+<center><strong>[ 'ROCKET ORB' HAS AWAKENED TO GAMMA! ]</strong></center>
+<center><strong>[ EXPLOSION STRENGTH INCREASED! ]</strong></center>
+
+Suddenly, I feel a strike of energy reach me. It also feels like I can dump even more power into the orbs...
+
+*I don't know what's happening, but I might as well take advantage of this!*
+
+I begin charging the orbs with even more magic, up until it's new limit.
+
+*Alright, here goes...! Eat this, you block of metal!*
+
+I raise my staff up, and-
+
+*SWOOSH*
+
+-slash it down, signaling the orbs to strike once again. Following how I did it the first time, I drop the perception boost.
+
+"NO! NOT AGAI-"
+
+*BOOOOOOOOOOOOM*
+
+One of the surviving delinquents from the first strike is abruptly cut off as the orb strikes the area near her, exploding. The second orb also does the same.
+
+As for the one targeted at the tank...
+
+*BOOOOOOOOOOOOOOOM*
+
+...it strikes, exploding like the others. The tank, already having sustained heavy damage from Hasumi's supercharged bullet, also explodes.
+
+*Holy hell...*
+
+And, for the third time: Radio silence.
+
+"RETREAT!!!!!" One of the delinquents breaks the silence, running away in utter terror like the others.
+
+"AAAAAAHHHHHHHHH!!!"
+
+"NOPE! NOPE! NEVER AGAIN!"
+
+"I REALLY REGRET BEING A PART OF THIS!!!"
+
+...
+
+.....
+
+.......
+
+"...job complete." Shiro breaks the silence. Again.
+
+"The power behind those orbs is terrifying..." Chinatsu points out.
+
+"Well, Chinatsu, you haven't seen everything yet..." Niko says.
+
+---
+
+///// POV: Shiro ///// <> //// Sanctum Tower - Front Entrance /////
+
+I pull out the drone that Rin gave me and use the radio on it.
+
+"Rin?" I speak into it.
+
+"Shiro-sensei?" She responds back.
+
+"We've reached the tower and cleared out the delinquents." I report.
+
+"...!" I hear her make a slightly surprised noise. "I see... what about Wakamo?" She asks.
+
+"She left the area mid-fight. We're not sure where she is." I answer.
+
+"Hmm... well, for now, what matters is that the tower is now reclaimed. I'll be there in a moment." She says.
+
+"Got it. Do me and the others head into the basement now?" I ask.
+
+"If you can find your way there, please do." She answers.
+
+"Alright, see you soon." I conclude.
+
+"So, heading to the basement?" Niko asks.
+
+"Yeah." I answer simply. "Yuuka, y'all wanna follow along?" I ask the four girls.
+
+"No... I need a break..." She answers tiredly.
+
+"...fair enough. Alright, guys, let's go." I signal the others to follow me.
+
+And so, we make our way into the tower.
 
