@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>C3 - Guns, Magic and The Tower</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<p>///// POV: Shiro ///// &lt;&gt; ///// 29.7KM to Sanctum Tower
+/////</p>
+<p>Bullets whizz all around us as we make our way to the Sanctum Tower,
+with various delinquents and sukebans (as the group called them)
+blocking our way, stopping us from getting there. Hasumi, Chinatsu, me
+and the other 4 stay behind, while Suzumi and Yuuka take the
+frontlines.</p>
+<p>So far, our current formation is working relatively well; Hasumi and
+Chinatsu stay behind to provide heavy-hitting firepower and healing
+support if needed, while Suzumi stays somewhat close to us to provide
+extra firepower and disorient the enemies with her flashbangs, which
+then gives Yuuka the opportunity to gun them down with her dual-wield
+SMGs, which are apparently named “Logic” and “Reason”.</p>
+<p>…I feel like I now know why she had an extreme reaction towards magic
+compared to the others. As far as I’m concerned, science and magic do
+<em>not</em> mix well, or at all.</p>
+<p>As for me and the other 4, we’re all currently laying low since we
+have no haloes, which apparently just turns these girls into literal
+superhumans, boosting their strength significantly and giving them
+<em>bullet resistance</em>, which lets them tank and shrug off most
+bullets. <em>So that’s why guns just existed everywhere…</em></p>
+<hr />
+<p><em>Haloes. A common element that ALL Kivotos students have.</em></p>
+<p><em>As we made our way to the Sanctum Tower, Rin, Yuuka and Chinatsu
+gave us information on what they’re for. Apparently, as far as they’re
+concerned, it has existed for as long as they can remember.</em></p>
+<p><em>They provide students with immense physical power and bullet
+resistance, which lets them tank bullets of all kinds and even
+explosives, though they still can get injured. Some students can also
+develop their halo further, giving them more strength or amplifying
+their current abilities.</em></p>
+<p><em>And after some extra explanations from Chinatsu, I concluded that
+haloes have three different states:</em></p>
+<p><em>First: Active, which basically indicates that a student is
+currently awake. Their halo is fully visible, and can be used to see if
+they’re faking being asleep or unconscious.</em></p>
+<p><em>Second: Inactive, which is when a student is actually
+unconscious, whether from sleeping or tanking too much damage in a
+firefight. At this state, their halo isn’t visible.</em></p>
+<p><em>And lastly, an incredibly rare and dark one: Shattered. This is
+considered a dark one, since this indicates that a student has been
+effectively KILLED, leaving behind fragments of the destroyed halo that
+eventually disappears, and the body of the dead student.</em></p>
+<p><em>Apparently, deaths are incredibly rare in Kivotos, whether that’d
+be among the students, animal-people or automatons. But, there have been
+some reported cases. These only occur when a student sustains way too
+much damage that even their halo can’t keep up with, or through
+something so strong it can bypass the protection the halo gives, leaving
+them fatally injured.</em></p>
+<p><em>There is nothing about the third state that I like. For god’s
+sake, they’re NOT even adults yet! They still have their youthful lives
+that they haven’t fully experienced yet! And even if they were already
+adults, an early death is NOT something they should have!</em></p>
+<p><em>…</em></p>
+<p><em>…oh, god damn it, going off-track again…</em></p>
+<p><em>Anyways, basically: Student or not, death is NOT something they
+deserve. Not NOW, not TODAY, not EVER. End of story.</em></p>
+<hr />
+<p>“Yuuka! You doing okay over there?!” I shout towards her
+direction.</p>
+<p>“So far so good! My barrier’s holding up for a lot longer than usual
+thanks to Nano-sensei, which is helping!” She shouts back, tanking enemy
+fire with her calculator barrier, aptly called “Q.E.D”, which Nano is
+repairing.</p>
+<hr />
+<center>
+[ OBSERVER ENTITY HAS REQUESTED INFORMATION. ]
+</center>
+<center>
+[ ACCESS GRANTED. ]
+</center>
+<center>
+<details>
+<summary>
+</summary>
+<center>
+[ TARGETED REPAIR (ALPHA) - BASIC SUPPORT SKILL ]
+</center>
+<center>
+///
+</center>
+<center>
+[ REPAIRS AN ELEMENT OF THE CASTER’S CHOOSING BY PROVIDING A CONSTANT
+FLOW OF MAGIC TO IT. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ REPAIR SPEED CAN BE CONTROLLED, BUT AWAKENINGS ARE REQUIRED TO
+INCREASE SPEED BEYOND LIMITS. ]
+</center>
+</details>
+</center>
+<hr />
+<p>“…hmm, is your magic control fine, Nano?” Emiya asks Nano, to which
+he nods in response. “I see…”</p>
+<p>For now, we haven’t tried out using Nano’s magic for attacking, and
+have only been using it to constantly repair Yuuka’s barrier. We aren’t
+taking any chances on its stability for offensive attacks, or for the
+safety of the enemies. At the end of the day, they’re still students
+like Yuuka, Hasumi, Chinatsu, Suzumi… and perhaps even Rin.</p>
+<p>…this world is strange.</p>
+<hr />
+<p>///// POV: Emiya ///// &lt;&gt; ///// 23.3KM to Sanctum Tower
+/////</p>
+<p>“Enemy with an RPG hiding behind that smoking vehicle!” I point out
+to Hasumi.</p>
+<p>“Got it.” She nods in response. Reloading her weapon, she then fires
+a bullet charged with some sort of energy, striking the delinquent
+square on the head, knocking them out immediately.</p>
+<p>“<em>Hmm… are their haloes improving and strengthening their
+capabilities?</em>” I think to myself. “<em>Also, to hit a clean shot to
+the forehead at such a distance…</em>”</p>
+<p>“Hm. Impressive aim.” I say somewhat offhandedly, realizing she
+managed to strike a headshot on a target a fair distance away with a
+scopeless rifle.</p>
+<p>“This is nothing compared to my typical work in Trinity, but
+regardless… thank you for the compliment.” She responds back, her cheeks
+slightly dusted pink.</p>
+<hr />
+<p>///// POV: Luna ///// &lt;&gt; ///// 17.5KM to Sanctum Tower
+/////</p>
+<p>“<em>Damn it! How are they tearing down our forces so easily?! It’s
+literally HUNDREDS to FOUR! HOW?!</em>”</p>
+<p>“<em>Also, why won’t that damned Millennium student’s shield break?!
+We’ve been gunning it down for so long now! It even tanked THREE damn
+RPG rounds! Surely that would have been enough to break most shields,
+right?!</em>”</p>
+<p>As I continue shooting at the four opposing forces destroying our
+group, I notice something floating besides that huge Trinity student
+with a rifle. It looks like… a blue orb?</p>
+<p>“<em>…okay, now what the hell is that supposed to be?</em>”</p>
+<p>“<em>…huh, it turned red? Wait, it’s shaking, too.</em>”</p>
+<p>…wait.</p>
+<p>“<em>HUH?! IT”S HEADING STRAIGHT FOR ME-</em>”</p>
+<p><strong><em>BOOOOOOOOM</em></strong></p>
+<p>I get violently interrupted as it explodes in front of my face,
+launching me and the others near me away.</p>
+<p>“…”</p>
+<p>“…what… the fuck… was <em>that</em>….?”</p>
+<hr />
+<p>///// POV: Shiro /////</p>
+<p>“Ah…” I trail off, staring at the aftermath of Nano’s orb explosion.
+“That… worked out.”</p>
+<p>“This silence… is fucking painful.” Kai mutters, noticing that
+everyone has just completely stopped fighting after the orb
+exploded.</p>
+<p>Nano just stands where he is, and like the others at the moment, eyes
+wide and mouth agape.</p>
+<p><em>…I don’t think he, or literally everyone else, was expecting
+that.</em></p>
+<p>“…hm, I think ‘Rocket Orb’ was too much.” Emiya realizes.</p>
+<p>“<em>You</em> suggested that to Nano? How do you even know it
+exists?” Niko asks Emiya.</p>
+<p>“I found out about it while talking to a magic-explosives expert back
+on Earth.” He answers.</p>
+<p>“Alright…” Niko trails off.</p>
+<hr />
+<center>
+[ OBSERVER ENTITY HAS REQUESTED INFORMATION. ]
+</center>
+<center>
+[ ACCESS GRANTED. ]
+</center>
+<center>
+<details>
+<summary>
+</summary>
+<center>
+[ ROCKET ORB (ALPHA) - RARE OFFENSIVE/EXPLOSIVE SKILL ]
+</center>
+<center>
+///
+</center>
+<center>
+[ COMPRESSES MAGIC DOWN TO AN ORB, OFTEN COLORED AFTER THE CASTER’S MAIN
+MAGIC COLOR. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ CHANGES TO A RED COLOR UPON LOCKING ONTO AN ENEMY, AND EXPLODES WHEN
+TARGET IS WITHIN APPROPRIATE DISTANCE. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ MOVES AT SUBSONIC SPEEDS, BUT DOES NOT CAUSE HEAVY SOUND DISRUPTIONS
+OR SONIC BOOMS. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ IT MAY SAFELY FLY PAST SOMEONE’S EAR. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ STRENGTH OF EXPLOSION CAN BE CONTROLLED, BUT AWAKENINGS ARE REQUIRED
+TO INCREASE POWER FURTHER. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ THE SKILL MUST BE AWAKENED TO ‘DELTA’ RANK TO MANIPULATE SPEED AND
+TRAJECTORY (IN REAL TIME). ]
+</center>
+</details>
+</center>
+<hr />
+<p>Meanwhile, Nano shifts his attention to us, a desperate “<em>Wil she
+be okay???</em>” expression on his face.</p>
+<p>“Yeah, she’ll probably be fine… probably.” I answer, unsure myself.
+“Anyways…”</p>
+<hr />
+<p>///// POV: Shiro ///// &lt;&gt; ///// 4.4KM to Sanctum Tower
+/////</p>
+<p>“Area clear!” I shout out, eyeing the area for any remaining
+stragglers. Fortunately, that seems to be all of them.</p>
+<p><em>Not often does one see a street strewn with unconscious
+delinquents and loaded weapons…</em></p>
+<p><em>…is that an M1 Garand?</em></p>
+<p>“The Sanctum Tower is close by. Just an estimated… four more
+kilometers until we reach it.” Hasumi points out.</p>
+<p>With the tower close, me and the other 4 take a good look at it.</p>
+<p>“Woah…” I say in awe while the other 4 stay silent. Amongst all the
+buildings we’ve seen, the Sanctum Tower stands as the tallest one. There
+looks to also be some sort of pillar at the top (and a <em>bright</em>
+glow seperating it from the tower), surrounded by floating panels on the
+base, and is somehow extending <em>even</em> higher up, reaching past
+the sky haloes. Actually, hold on, it looks like the haloes come
+<em>from</em> the tower itself.</p>
+<p>…</p>
+<p>“Say, do the sky haloes come from the tower itself?” Kai breaks the
+brief silence, leaving a question open for anyone.</p>
+<p>“We aren’t exactly sure… to be honest, no one in Kivotos actually
+knows when, how and why the Sanctum Tower was constructed, nor how it
+somehow has a sort of… leash on every major component on most schools,
+such as Millennium’s wind generators.” Yuuka picks up on it and gives an
+answer.</p>
+<p>“Huh, that’s… strange.”</p>
+<p><em>Rin did mention that the president was the top administrator for
+this tower… yeah, that checks out.</em></p>
+<p><em>…it hasn’t even been a third of the day since we arrived, and
+somehow I’m already getting used to whatever mysteries she left
+behind.</em></p>
+<p>Setting my thoughts aside, I suddenly receive a call from Rin on this
+little drone she gave us. I pick it up, and throw the drone upwards. It
+stabilizes, and starts bringing her hologram into view.</p>
+<p>“Rin? What’s up?” I ask.</p>
+<p>“Shiro-sensei, please gather everyone around.” She commands with a
+bit of emergency in her tone.</p>
+<p>“Huh? Well, alright then.” Looks like something came up. “Guys!
+Gather around me! Rin has something to report!” I shout out to the
+group, and they begin to move towards me.</p>
+<p>“What is it?” Yuuka asks.</p>
+<p>“We’ve just received reports that one of the Seven Prisoners in the
+Corrections Bureau is currently at the Sanctum Tower.” Rin reports.</p>
+<p>“Seriously?! Who is it?” Yuuka asks, uneasy.</p>
+<p>“Could it be that escaped Corrections Bureau student that Momoka girl
+mentioned?” I ask.</p>
+<p>“Precisely. She is known by her identity, the ‘Fox of Calamity’, and
+by the name of Kosaka Wakamo.”</p>
+<p>“…!” Hasumi, Chinatsu and Suzumi react silently.</p>
+<p>“Huh?! <em>That</em> Fox of Calamity?!” Yuuka shouts out in
+surprise.</p>
+<p>“Can we get any details about her?” Emiya inquires.</p>
+<p>“Well, as her identity suggests, she is notorious for being a
+whirlwind of chaos, bringing destruction against everything in her path.
+The core parts of her identity are her mask, which she rarely takes off,
+and as was mentioned, her destructive tendencies.” Rin, ignoring Yuuka,
+answers.</p>
+<p>“Hmm, noted. Anything else we need to know?” I ask.</p>
+<p>“Those should be everything you need, but please attempt to avoid
+contact with her, as she is difficult to stop.” She warns.</p>
+<p>“Got it. Though, if that doesn’t work…” I trail off.</p>
+<p>“…we might have to utilize Nano’s magic again.” Kai continues.</p>
+<p>“Hmm?”</p>
+<p>“Oh yeah, almost forgot to mention this, but we’ve started joining
+the others in direct firefights with Nano’s magic.” I follow up.</p>
+<p>“I see. I presume it can now be considered stable enough for
+retaliating?” Rin asks.</p>
+<p>“Yeah. It’s helping out by a <em>massive</em> margin, and hasn’t gone
+unstable the entire time.” I answer.</p>
+<p>Actually, hold on…</p>
+<p>“Wait a second… hey, Nano, you doing okay?” I ask, <em>just</em>
+remembering that his magic capacity isn’t unlimited. He turns his head
+in confusion, but nods in response shortly after. “Alright, good.”</p>
+<p>“Is something wrong?” Chinatsu asks.</p>
+<p>“Just remembered that his stored magic isn’t necessarily unlimited.”
+I answer.</p>
+<p>“Uh, but wasn’t it mentioned that his magic capacity is higher than
+everyone else’s by an order of magnitude?” Kai questions.</p>
+<p>“I remember that clear as day, but we’ve never had to use it to
+<em>this</em> extent.” I follow up.</p>
+<p>“Fair enough.” Kai concludes. “Also, Rin, anything else to take note
+of?”</p>
+<p>“Well, other than the Fox of Calamity, there shouldn’t be anything
+else to deal with now.” She answers.</p>
+<p>“Alright then, we’re cutting the connection now.” I say.</p>
+<p>“Understood. I’ll be there once control over the tower has been
+regained. Be careful, and best of luck to everyone.” Rin concludes
+before I cut the connection.</p>
+<p>“Haah… as if this wasn’t chaotic enough, now we also have to deal
+with that fox…” Yuuka groans.</p>
+<p>“Well… we don’t have much of a choice now. It’s either luck or
+strength that’ll get us through.” Emiya says.</p>
+<p>“Also, Shiro-sensei, I’ve been meaning to ask, but you, Emiya-sensei,
+Kai-sensei and Niko-sensei don’t have magic?” Chinatsu inquires.</p>
+<p>“Nope, no magic in us. I’ll add this to the explanation once we
+reclaim Sanctum, but to make a long story short: Back in our place, 15
+million people all around the globe were given magical capabilities over
+a year. Nano was one of the last 100 to receive it on the last day, but
+his was far, <em>far</em> more powerful than anyone else’s.” I
+answer.</p>
+<p>“I see…” Chinatsu trails off, thinking about it.</p>
+<p>“Well, as I said: Save the questions for when the magic explanation
+is due. Everyone ready to go one last time?” <br></p>
+<hr />
+<p>“Always ready.”</p>
+<p>“Good to go.”</p>
+<p>“Locked and loaded.”</p>
+<p>Nano nods.</p>
+<hr />
+<p>“Ready to go, Sensei.”</p>
+<p>Yuuka sighs. “Well, no other choice left… yeah, I’m ready.”</p>
+<p>“Mm.” Chinatsu nods.</p>
+<p>“Flashbangs… check. Ready to go too, Shiro-sensei.”</p>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><br></td>
+</tr>
+</tbody>
+</table>
+<p>///// POV: Nano //// &lt;&gt; ///// 1KM to Sanctum Tower /////</p>
+<p>I stay crouched behind a destroyed car, waiting for their go-to
+signal.</p>
+<p>“Yuuka, attackers by your right!” Shiro shouts out. “And Suzumi,
+throw a flashbang towards the sniper duo behind that smoking car!” He
+follows up quickly.</p>
+<p>“Got it!”/“Alright, flashbang going out!” Yuuka and Suzumi respond at
+the same time, with Yuuka gunning down the incoming attackers, and
+Suzumi throwing a flashbang to the noted sniper duo.</p>
+<p><em>She can throw that really far, actually…</em></p>
+<p>“Hasumi! Another delinquent with an RPG by that wall!” Emiya points
+out.</p>
+<p><em>…that still doesn’t sit right with me…</em></p>
+<p>“Target spotted.” Hasumi then strikes down the RPG-carrying
+delinquent. Though-</p>
+<p><em>BOOOOOOM</em></p>
+<p>-the bullet ends up striking the loaded RPG itself, making it explode
+in the delinquent’s hands.</p>
+<p><em>Oh… that’s gotta hurt…</em></p>
+<p>“Large groups incoming up-front! Nano, you’re good to go!” Niko
+signals me to retaliate.</p>
+<p><em>Alright, I’ll do my best…!</em></p>
+<p>Shifting my attention back to the staff. I begin to manifest
+offensive magic again.</p>
+<center>
+<strong>[ ‘ROCKET ORB’ 3X ]</strong>
+</center>
+<p>Three orbs escape the staff’s core, their color a beautiful
+sky-blue.</p>
+<center>
+<strong>[ ‘FRONT BARRIER’ ]</strong>
+</center>
+<p>Utilizing a defense skill that Niko told me, I then prepared a magic
+barrier, since this will need me to be visible to the enemies.</p>
+<p><em>Alright… just big enough to keep me safe. Now…</em></p>
+<p><em>One…</em></p>
+<p><em>Two…</em></p>
+<p><em>…THREE!</em></p>
+<p>The orbs begin to shift to a red color, as it does that, I stand, now
+visible to the enemies. Their attention shifts to me, or more precisely,
+the orbs.</p>
+<p>Then, with a skill I personally found myself…</p>
+<center>
+<strong>[ ‘PERCEPTION BOOST’ ]</strong>
+</center>
+<p>…I feel time slow down significantly, and my senses heighten. Using
+it to my advantage, I scan the group.</p>
+<p>“Shit! Guys, shoot…. th….ose….. o….rb……..s……!” One of the delinquents
+notices the orbs, but calls out too late as her voice slows down.</p>
+<p><em>Three large groups… looks like some of them know what the orbs
+are…</em></p>
+<p>I think to myself, noticing the fear in some of their eyes.</p>
+<p><em>Target that one… here… and… THERE!</em></p>
+<p>I designate a trajectory for each orb to strike. Then, taking a deep
+breath…</p>
+<p><em>SWOOSH</em></p>
+<p>…I slash my staff forward, signaling the orbs to strike. At the same
+time, I drop my perception boost, restoring time back to normal
+speed.</p>
+<p>“Huh?! SHIT! EVERYONE, GET AWA-” That same delinquent, noticing the
+orbs shaking, tries warning the others, while some point their guns at
+me-</p>
+<p><em>BOOOOOOOOOOOM</em></p>
+<p>-but to no avail, as the three orbs strike down each group in unison,
+exploding at full force (well, up until the skill’s current upper limit,
+at least) and instantly knocking them all out.</p>
+<p>…</p>
+<p>The battleground goes silent again.</p>
+<hr />
+<center>
+[ OBSERVER ENTITY HAS REQUESTED INFORMATION. ]
+</center>
+<center>
+[ ACCESS GRANTED. ]
+</center>
+<center>
+<details>
+<summary>
+</summary>
+<center>
+[ FRONT BARRIER (ALPHA) - BASIC DEFENSIVE SKILL ]
+</center>
+<center>
+///
+</center>
+<center>
+[ CREATES A BARRIER IN FRONT OF THE CASTER, CAPABLE OF BLOCKING ANY
+PHYSICAL ATTACK. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ HOWEVER, THE BARRIER WILL SHATTER IF OVERLOADED, AND WILL REQUIRE TIME
+TO RECOVER. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ WHEN AWAKENED, THE CASTER WILL HAVE A CHOICE TO EITHER INCREASE DAMAGE
+TOLERANCE, SIZE CONTROL, OR DECREASE RECOVERY TIME. ]
+</center>
+</details>
+</center>
+<center>
+<details>
+<summary>
+</summary>
+<center>
+[ PERCEPTION BOOST (ALPHA) - UNCOMMON SENSE SKILL ]
+</center>
+<center>
+///
+</center>
+<center>
+[ HEIGHTENS THE SENSES AND PERCEPTION OF THE CASTER, MAKING THEM MORE
+AWARE OF THEIR SURROUNDINGS. ]
+</center>
+<center>
+///
+</center>
+<center>
+[ AWAKENINGS WILL FURTHER IMPROVE HEIGHTENED SENSES. ]
+</center>
+</details>
+</center>
+<hr />
+<p><em>Ah… well, uh… that was…</em></p>
+<p>“Holy… shit…” Kai breaks the silence, aghast at what just
+occurred.</p>
+<p>The remaining delinquents stare at the aftermath, then back at me
+with visible fear in some of them.</p>
+<p>“S-shit, screw this! Fall back! NOW!” One of them shouts in fear,
+running away. The others instantly follow suite, horrified that their
+massive group was quickly dealt with.</p>
+<p>“N-nope! Nope! Not dealing with <em>that</em>!” Another one runs
+away.</p>
+<p>“Please spare me, please spare me, please spare me!!!” And another.
+<em>Is she crying?</em></p>
+<p>“I knew I shouldn’t have been a part of this!” …and the last one.</p>
+<p>With the delinquents scattering away, once again, silence.</p>
+<p>…</p>
+<p>“Uhhh… do we keep going?” Kai asks.</p>
+<p>“…yeah.” Shiro answers after a short delay. Meanwhile, the four girls
+are completely stunned.</p>
+<p>“You four doing okay?” Emiya asks the girls.</p>
+<p>“…don’t you dare forget about the explanation.” Yuuka answers.</p>
+<p>“…noted.” He concludes.</p>
+<p>“That was… something.”</p>
+<p>Recovering from the stunlock, we begin the last trek to the
+tower.</p>
+<hr />
+<p>///// POV: Shiro ///// &lt;&gt; ///// 150M to Sanctum Tower ////</p>
+<p>“Almost there! The entrance is visible from here!” I say.</p>
+<p>“Yes! Finally! I’ve had enough running for one day!” Yuuka shouts
+angrily, tired from all the running.</p>
+<p>After a bit, we stop and hide, noticing the amasse of delinquents
+there.</p>
+<p>“Lay low for now and take a short break. We’ll be retaliating in a
+minute.” Emiya commands, to which the others more than gladly follow,
+hiding behind debris and destroyed vehicles.</p>
+<p>“Wait… Nano-sensei, couldn’t you just send those… rocket orbs towards
+them?” Yuuka inquires.</p>
+<p>“He could, but we aren’t betting on him passing out from overusing
+his magic.” Kai answers for Nano.</p>
+<p>“Oh…” Yuuka trails off, realizing that’s a possibility.</p>
+<p>Fair assumption. Sure, it was found out that Nano’s magic capacity is
+far higher than literally every single magic user back on Earth, but
+having him collapse from overusing it, WHILE in the middle of a literal
+gunfight, is probably the worst chain of events that could happen.
+<strong>Especially</strong> if the enemy isn’t aware that we aren’t
+bullet resistant like the other students.</p>
+<p>So far, Nano has used 4 skills: The Targeted Repair skill for Yuuka’s
+barrier, then 4 Rocket Orbs, one on a small group, and three on a large
+group, then the Front Barrier to protect himself against the large group
+while setting targets for those three orbs, and lastly, the Perception
+Boost skill to decrease the time he needed to assess the aformentioned
+targets.</p>
+<p>And within that timespan, he hasn’t been struck by any sudden
+fatigue, which is what magic users experience when overusing their
+skills.</p>
+<p>“Alright, checking the area…” Niko enters line of sight slowly,
+assessing the stuff the enemies have. “A <em>bunch’a</em> delinquents,
+as usual. Though, this time it looks like they have a tank… and I also
+see someone on top of it.” He shortly reports.</p>
+<p>“A tank… must be the Crusader Tank that Momoka girl mentioned
+earlier.” Emiya assumes.</p>
+<p>“Can you see whose the one standing above it from here?” I ask
+Niko.</p>
+<p>“Not much, though… oh dear, fox ears, tail, and a mask.” He points
+out.</p>
+<p>“Oh no. Hasumi, could you go confirm that?” Kai asks Hasumi.</p>
+<p>“Affirmative.” She enters line of sight, and squints her eyes a bit.
+“…target confirmed. The one above the tank is, indeed, the Fox of
+Calamity.” She follows up, hiding again.</p>
+<p>“<strong>Scheiße</strong>… looks like we’ll have to deal with her
+after all.” Kai says, swearing in German for some reason. Chinatsu
+narrows her eyes upon hearing that.</p>
+<p>“<em>…does she understand German?</em>”</p>
+<p>“Wouldn’t a ‘Rocket Orb’ work on her?” Kai asks.</p>
+<p>“It could, but she is very resilient to explosions, and her reaction
+time is unmatched, meaning she can very likely see and dodge the orb
+with exceptional speed.” Hasumi answers.</p>
+<p>“Ugh, now that just sucks… guess it’s the gun-down route again.” Kai
+groans. “How’s everyone’s ammo doing?” He asks the others.</p>
+<p>“Well… enough to deal with the troublemakers, but way too little to
+deal with Wakamo.” Yuuka responds.</p>
+<p>“Since I only provide support… my supply is still plentiful, but I
+doubt I can do much.” Then, Chinatsu.</p>
+<p>“…like Yuuka, just enough rounds to deal with the heavy ones.” Then
+Hasumi.</p>
+<p>“My ammo is good, but I only have about 15 flashbangs left…” Then
+Suzumi, responding a bit sadly.</p>
+<p>“Hmm… alright then. Nano, think you can do three more Rocket Orbs?” I
+ask Nano. As usual, he nods in response. “Good. I have a plan.”</p>
+<p>“What is it?” Emiya asks.</p>
+<p>“Alright, so, to start…”</p>
+<hr />
+<p>///// POV: Nano ///// &lt;&gt; ///// 75M to Sanctum Tower /////</p>
+<p>“Fufufu~ looks like the puppies of the General Student Council have
+come to stop me. How adorable~” Wakamo says, a hint of teasing and
+mockery in her voice.</p>
+<p><em>Ghh… scary…</em></p>
+<p>As the four girls catch her attention, I begin focusing on my staff
+once more.</p>
+<center>
+<strong>[ ‘ROCKET ORB’ 3X ]</strong>
+</center>
+<p>And, once again, three orbs leave its core. I slowly charge them with
+magic, waiting for the right time to strike.</p>
+<p><em>RATATATATATATAT</em></p>
+<p><em>Gunshots… the fight has started!</em></p>
+<p>“Flashbangs going out!” Suzumi shouts, throwing <em>five</em>
+flashbangs at once.</p>
+<p><em>How did she pull all those pins at once?</em></p>
+<p>“Agh!”</p>
+<p>“Wah!”</p>
+<p>“MY EYES!”</p>
+<p>The delinquents cry out after being flashed.</p>
+<p>“Alright, Yuuka! Your turn!” Shiro shouts at Yuuka.</p>
+<p>“Here goes nothing!” She pops up from her place, and starts gunning
+down the disoriented targets.</p>
+<p>“Hasumi! Think you can strike the tank?” Emiya asks Hasumi.</p>
+<p>“I can.” She answers simply. Taking a deep breath, a dark aura
+suddenly starts manifesting around her.</p>
+<p>“…what in-” Emiya tries responding in surprise, but is suddenly cut
+off by Hasumi firing a seemingly <em>supercharged</em> bullet, which
+hits the tank and inflicts significant damage to it.</p>
+<p>“…huh. Well, color me impressed.” Emiya says, surprised and
+impressed.</p>
+<p>“Well, my job here is done. You can all take care of the rest~”
+Wakamo says, leaving the battlegrounds.</p>
+<p><em>She actually left the scene…</em> I think to myself, surprised
+when Shiro had predicted that Wakamo would actually leave after a
+bit.</p>
+<p><em>Alright, now’s my time…</em></p>
+<center>
+<strong>[ ‘FRONT BARRIER’ ]</strong>
+</center>
+<p>I begin speeding up the magic output to the orbs, and prepare another
+barrier to protect myself.</p>
+<p><em>Again, one…</em></p>
+<p><em>Two…</em></p>
+<p><em>And… THREE!</em></p>
+<p>The orbs turn red, and I enter into view, preparing my staff.</p>
+<center>
+<strong>[ ‘PERCEPTION BOOST’ ]</strong>
+</center>
+<p>Before the delinquents can even notice me, I immediately cast
+Perception Boost, slowing down time once more.</p>
+<p><em>So… two large groups and the tank.</em></p>
+<p>I assess the surrounding area. A bunch of delinquents, conscious and
+unconscious, and the tank, which is partially smoking.</p>
+<p><em>Alright, here… there, and… finally, the tank.</em></p>
+<p>I successfully assign targets for the rocket orbs to hit. Taking
+another deep breath…</p>
+<p><em>BZZZT</em></p>
+<p><em>…huh?</em></p>
+<center>
+<strong>[ ‘ROCKET ORB’ HAS AWAKENED TO GAMMA! ]</strong>
+</center>
+<center>
+<strong>[ EXPLOSION STRENGTH INCREASED! ]</strong>
+</center>
+<p>Suddenly, I feel a strike of energy reach me. It also feels like I
+can dump even more power into the orbs…</p>
+<p><em>I don’t know what’s happening, but I might as well take advantage
+of this!</em></p>
+<p>I begin charging the orbs with even more magic, up until it’s new
+limit.</p>
+<p><em>Alright, here goes…! Eat this, you block of metal!</em></p>
+<p>I raise my staff up, and-</p>
+<p><em>SWOOSH</em></p>
+<p>-slash it down, signaling the orbs to strike once again. Following
+how I did it the first time, I drop the perception boost.</p>
+<p>“NO! NOT AGAI-”</p>
+<p><em>BOOOOOOOOOOOOM</em></p>
+<p>One of the surviving delinquents from the first strike is abruptly
+cut off as the orb strikes the area near her, exploding. The second orb
+also does the same.</p>
+<p>As for the one targeted at the tank…</p>
+<p><em>BOOOOOOOOOOOOOOOM</em></p>
+<p>…it strikes, exploding like the others. The tank, already having
+sustained heavy damage from Hasumi’s supercharged bullet, also
+explodes.</p>
+<p><em>Holy hell…</em></p>
+<p>And, for the third time: Radio silence.</p>
+<p>“RETREAT!!!!!” One of the delinquents breaks the silence, running
+away in utter terror like the others.</p>
+<p>“AAAAAAHHHHHHHHH!!!”</p>
+<p>“NOPE! NOPE! NEVER AGAIN!”</p>
+<p>“I REALLY REGRET BEING A PART OF THIS!!!”</p>
+<p>…</p>
+<p>…..</p>
+<p>…….</p>
+<p>“…job complete.” Shiro breaks the silence. Again.</p>
+<p>“The power behind those orbs is terrifying…” Chinatsu points out.</p>
+<p>“Well, Chinatsu, you haven’t seen everything yet…” Niko says.</p>
+<hr />
+<p>///// POV: Shiro ///// &lt;&gt; //// Sanctum Tower - Front Entrance
+/////</p>
+<p>I pull out the drone that Rin gave me and use the radio on it.</p>
+<p>“Rin?” I speak into it.</p>
+<p>“Shiro-sensei?” She responds back.</p>
+<p>“We’ve reached the tower and cleared out the delinquents.” I
+report.</p>
+<p>“…!” I hear her make a slightly surprised noise. “I see… what about
+Wakamo?” She asks.</p>
+<p>“She left the area mid-fight. We’re not sure where she is.” I
+answer.</p>
+<p>“Hmm… well, for now, what matters is that the tower is now reclaimed.
+I’ll be there in a moment.” She says.</p>
+<p>“Got it. Do me and the others head into the basement now?” I ask.</p>
+<p>“If you can find your way there, please do.” She answers.</p>
+<p>“Alright, see you soon.” I conclude.</p>
+<p>“So, heading to the basement?” Niko asks.</p>
+<p>“Yeah.” I answer simply. “Yuuka, y’all wanna follow along?” I ask the
+four girls.</p>
+<p>“No… I need a break…” She answers tiredly.</p>
+<p>“…fair enough. Alright, guys, let’s go.” I signal the others to
+follow me.</p>
+<p>And so, we make our way into the tower.</p>
+</body>
+</html>
